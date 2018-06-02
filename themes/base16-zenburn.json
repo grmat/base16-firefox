@@ -1,0 +1,38 @@
+{
+  "description": "base16-Zenburn by elnawe",
+  "manifest_version": 2,
+  "name": "base16-Zenburn",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#3f3f3f",
+      "button_background_active":     "#4f4f4f",             
+      "button_background_hover":      "#606060",
+      "icons":                        "#dcdccc",
+      "icons_attention":              "#7cb8bb",
+      //"opup":                       "#3f3f3f",
+      //"popup_border":               "#3f3f3f",
+      //"popup_highlight":            "#3f3f3f",
+      //"popup_highlight_text":       "#3f3f3f",
+      //"popup_text":                 "#3f3f3f",
+      //"tab_background_separator":   "#3f3f3f",
+      "tab_line":                     "#7cb8bb",
+      "tab_loading":                  "#7cb8bb",
+      "tab_selected":                 "#404040",
+      "tab_text":                     "#dcdccc",
+      "textcolor":                    "#dcdccc",
+      "toolbar":                      "#404040",
+      "toolbar_bottom_separator":     "#3f3f3f",
+      "toolbar_field":                "#606060",
+      "toolbar_field_border":         "#404040",
+      //"toolbar_field_border_focus": "#3f3f3f",
+      //"toolbar_field_focus":        "#3f3f3f",
+      "toolbar_field_separator":      "#404040",
+      "toolbar_field_text":           "#dcdccc",
+      //"toolbar_field_text_focus":   "#3f3f3f",
+      "toolbar_text":                 "#dcdccc",
+      "toolbar_top_separator":        "#404040",
+      "toolbar_vertical_separator":   "#404040"
+    }
+  }
+}

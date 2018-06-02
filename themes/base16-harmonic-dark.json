@@ -1,0 +1,38 @@
+{
+  "description": "base16-Harmonic16 Dark by Jannik Siebert (https://github.com/janniks)",
+  "manifest_version": 2,
+  "name": "base16-Harmonic16 Dark",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#0b1c2c",
+      "button_background_active":     "#627e99",             
+      "button_background_hover":      "#405c79",
+      "icons":                        "#cbd6e2",
+      "icons_attention":              "#8b56bf",
+      //"opup":                       "#0b1c2c",
+      //"popup_border":               "#0b1c2c",
+      //"popup_highlight":            "#0b1c2c",
+      //"popup_highlight_text":       "#0b1c2c",
+      //"popup_text":                 "#0b1c2c",
+      //"tab_background_separator":   "#0b1c2c",
+      "tab_line":                     "#8b56bf",
+      "tab_loading":                  "#8b56bf",
+      "tab_selected":                 "#223b54",
+      "tab_text":                     "#cbd6e2",
+      "textcolor":                    "#cbd6e2",
+      "toolbar":                      "#223b54",
+      "toolbar_bottom_separator":     "#0b1c2c",
+      "toolbar_field":                "#405c79",
+      "toolbar_field_border":         "#223b54",
+      //"toolbar_field_border_focus": "#0b1c2c",
+      //"toolbar_field_focus":        "#0b1c2c",
+      "toolbar_field_separator":      "#223b54",
+      "toolbar_field_text":           "#cbd6e2",
+      //"toolbar_field_text_focus":   "#0b1c2c",
+      "toolbar_text":                 "#cbd6e2",
+      "toolbar_top_separator":        "#223b54",
+      "toolbar_vertical_separator":   "#223b54"
+    }
+  }
+}

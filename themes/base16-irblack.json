@@ -1,0 +1,38 @@
+{
+  "description": "base16-IR Black by Timothée Poisot (http://timotheepoisot.fr)",
+  "manifest_version": 2,
+  "name": "base16-IR Black",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#000000",
+      "button_background_active":     "#6c6c66",             
+      "button_background_hover":      "#484844",
+      "icons":                        "#b5b3aa",
+      "icons_attention":              "#96cbfe",
+      //"opup":                       "#000000",
+      //"popup_border":               "#000000",
+      //"popup_highlight":            "#000000",
+      //"popup_highlight_text":       "#000000",
+      //"popup_text":                 "#000000",
+      //"tab_background_separator":   "#000000",
+      "tab_line":                     "#96cbfe",
+      "tab_loading":                  "#96cbfe",
+      "tab_selected":                 "#242422",
+      "tab_text":                     "#b5b3aa",
+      "textcolor":                    "#b5b3aa",
+      "toolbar":                      "#242422",
+      "toolbar_bottom_separator":     "#000000",
+      "toolbar_field":                "#484844",
+      "toolbar_field_border":         "#242422",
+      //"toolbar_field_border_focus": "#000000",
+      //"toolbar_field_focus":        "#000000",
+      "toolbar_field_separator":      "#242422",
+      "toolbar_field_text":           "#b5b3aa",
+      //"toolbar_field_text_focus":   "#000000",
+      "toolbar_text":                 "#b5b3aa",
+      "toolbar_top_separator":        "#242422",
+      "toolbar_vertical_separator":   "#242422"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "description": "base16-Hopscotch by Jan T. Sott",
+  "manifest_version": 2,
+  "name": "base16-Hopscotch",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#322931",
+      "button_background_active":     "#797379",             
+      "button_background_hover":      "#5c545b",
+      "icons":                        "#b9b5b8",
+      "icons_attention":              "#1290bf",
+      //"opup":                       "#322931",
+      //"popup_border":               "#322931",
+      //"popup_highlight":            "#322931",
+      //"popup_highlight_text":       "#322931",
+      //"popup_text":                 "#322931",
+      //"tab_background_separator":   "#322931",
+      "tab_line":                     "#1290bf",
+      "tab_loading":                  "#1290bf",
+      "tab_selected":                 "#433b42",
+      "tab_text":                     "#b9b5b8",
+      "textcolor":                    "#b9b5b8",
+      "toolbar":                      "#433b42",
+      "toolbar_bottom_separator":     "#322931",
+      "toolbar_field":                "#5c545b",
+      "toolbar_field_border":         "#433b42",
+      //"toolbar_field_border_focus": "#322931",
+      //"toolbar_field_focus":        "#322931",
+      "toolbar_field_separator":      "#433b42",
+      "toolbar_field_text":           "#b9b5b8",
+      //"toolbar_field_text_focus":   "#322931",
+      "toolbar_text":                 "#b9b5b8",
+      "toolbar_top_separator":        "#433b42",
+      "toolbar_vertical_separator":   "#433b42"
+    }
+  }
+}

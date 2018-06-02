@@ -1,0 +1,38 @@
+{
+  "description": "base16-Green Screen by Chris Kempson (http://chriskempson.com)",
+  "manifest_version": 2,
+  "name": "base16-Green Screen",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#001100",
+      "button_background_active":     "#007700",             
+      "button_background_hover":      "#005500",
+      "icons":                        "#00bb00",
+      "icons_attention":              "#009900",
+      //"opup":                       "#001100",
+      //"popup_border":               "#001100",
+      //"popup_highlight":            "#001100",
+      //"popup_highlight_text":       "#001100",
+      //"popup_text":                 "#001100",
+      //"tab_background_separator":   "#001100",
+      "tab_line":                     "#009900",
+      "tab_loading":                  "#009900",
+      "tab_selected":                 "#003300",
+      "tab_text":                     "#00bb00",
+      "textcolor":                    "#00bb00",
+      "toolbar":                      "#003300",
+      "toolbar_bottom_separator":     "#001100",
+      "toolbar_field":                "#005500",
+      "toolbar_field_border":         "#003300",
+      //"toolbar_field_border_focus": "#001100",
+      //"toolbar_field_focus":        "#001100",
+      "toolbar_field_separator":      "#003300",
+      "toolbar_field_text":           "#00bb00",
+      //"toolbar_field_text_focus":   "#001100",
+      "toolbar_text":                 "#00bb00",
+      "toolbar_top_separator":        "#003300",
+      "toolbar_vertical_separator":   "#003300"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "description": "base16-Atelier Forest by Bram de Haan (http://atelierbramdehaan.nl)",
+  "manifest_version": 2,
+  "name": "base16-Atelier Forest",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#1b1918",
+      "button_background_active":     "#766e6b",             
+      "button_background_hover":      "#68615e",
+      "icons":                        "#a8a19f",
+      "icons_attention":              "#407ee7",
+      //"opup":                       "#1b1918",
+      //"popup_border":               "#1b1918",
+      //"popup_highlight":            "#1b1918",
+      //"popup_highlight_text":       "#1b1918",
+      //"popup_text":                 "#1b1918",
+      //"tab_background_separator":   "#1b1918",
+      "tab_line":                     "#407ee7",
+      "tab_loading":                  "#407ee7",
+      "tab_selected":                 "#2c2421",
+      "tab_text":                     "#a8a19f",
+      "textcolor":                    "#a8a19f",
+      "toolbar":                      "#2c2421",
+      "toolbar_bottom_separator":     "#1b1918",
+      "toolbar_field":                "#68615e",
+      "toolbar_field_border":         "#2c2421",
+      //"toolbar_field_border_focus": "#1b1918",
+      //"toolbar_field_focus":        "#1b1918",
+      "toolbar_field_separator":      "#2c2421",
+      "toolbar_field_text":           "#a8a19f",
+      //"toolbar_field_text_focus":   "#1b1918",
+      "toolbar_text":                 "#a8a19f",
+      "toolbar_top_separator":        "#2c2421",
+      "toolbar_vertical_separator":   "#2c2421"
+    }
+  }
+}

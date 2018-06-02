@@ -1,0 +1,38 @@
+{
+  "description": "base16-Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "manifest_version": 2,
+  "name": "base16-Atelier Cave Light",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#efecf4",
+      "button_background_active":     "#7e7887",             
+      "button_background_hover":      "#8b8792",
+      "icons":                        "#585260",
+      "icons_attention":              "#576ddb",
+      //"opup":                       "#efecf4",
+      //"popup_border":               "#efecf4",
+      //"popup_highlight":            "#efecf4",
+      //"popup_highlight_text":       "#efecf4",
+      //"popup_text":                 "#efecf4",
+      //"tab_background_separator":   "#efecf4",
+      "tab_line":                     "#576ddb",
+      "tab_loading":                  "#576ddb",
+      "tab_selected":                 "#e2dfe7",
+      "tab_text":                     "#585260",
+      "textcolor":                    "#585260",
+      "toolbar":                      "#e2dfe7",
+      "toolbar_bottom_separator":     "#efecf4",
+      "toolbar_field":                "#8b8792",
+      "toolbar_field_border":         "#e2dfe7",
+      //"toolbar_field_border_focus": "#efecf4",
+      //"toolbar_field_focus":        "#efecf4",
+      "toolbar_field_separator":      "#e2dfe7",
+      "toolbar_field_text":           "#585260",
+      //"toolbar_field_text_focus":   "#efecf4",
+      "toolbar_text":                 "#585260",
+      "toolbar_top_separator":        "#e2dfe7",
+      "toolbar_vertical_separator":   "#e2dfe7"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "description": "base16-Brush Trees by Abraham White &lt;abelincoln.white@gmail.com&gt;",
+  "manifest_version": 2,
+  "name": "base16-Brush Trees",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#E3EFEF",
+      "button_background_active":     "#98AFB5",             
+      "button_background_hover":      "#B0C5C8",
+      "icons":                        "#6D828E",
+      "icons_attention":              "#868cb3",
+      //"opup":                       "#E3EFEF",
+      //"popup_border":               "#E3EFEF",
+      //"popup_highlight":            "#E3EFEF",
+      //"popup_highlight_text":       "#E3EFEF",
+      //"popup_text":                 "#E3EFEF",
+      //"tab_background_separator":   "#E3EFEF",
+      "tab_line":                     "#868cb3",
+      "tab_loading":                  "#868cb3",
+      "tab_selected":                 "#C9DBDC",
+      "tab_text":                     "#6D828E",
+      "textcolor":                    "#6D828E",
+      "toolbar":                      "#C9DBDC",
+      "toolbar_bottom_separator":     "#E3EFEF",
+      "toolbar_field":                "#B0C5C8",
+      "toolbar_field_border":         "#C9DBDC",
+      //"toolbar_field_border_focus": "#E3EFEF",
+      //"toolbar_field_focus":        "#E3EFEF",
+      "toolbar_field_separator":      "#C9DBDC",
+      "toolbar_field_text":           "#6D828E",
+      //"toolbar_field_text_focus":   "#E3EFEF",
+      "toolbar_text":                 "#6D828E",
+      "toolbar_top_separator":        "#C9DBDC",
+      "toolbar_vertical_separator":   "#C9DBDC"
+    }
+  }
+}

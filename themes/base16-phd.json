@@ -1,0 +1,38 @@
+{
+  "description": "base16-PhD by Hennig Hasemann (http://leetless.de/vim.html)",
+  "manifest_version": 2,
+  "name": "base16-PhD",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#061229",
+      "button_background_active":     "#717885",             
+      "button_background_hover":      "#4d5666",
+      "icons":                        "#b8bbc2",
+      "icons_attention":              "#5299bf",
+      //"opup":                       "#061229",
+      //"popup_border":               "#061229",
+      //"popup_highlight":            "#061229",
+      //"popup_highlight_text":       "#061229",
+      //"popup_text":                 "#061229",
+      //"tab_background_separator":   "#061229",
+      "tab_line":                     "#5299bf",
+      "tab_loading":                  "#5299bf",
+      "tab_selected":                 "#2a3448",
+      "tab_text":                     "#b8bbc2",
+      "textcolor":                    "#b8bbc2",
+      "toolbar":                      "#2a3448",
+      "toolbar_bottom_separator":     "#061229",
+      "toolbar_field":                "#4d5666",
+      "toolbar_field_border":         "#2a3448",
+      //"toolbar_field_border_focus": "#061229",
+      //"toolbar_field_focus":        "#061229",
+      "toolbar_field_separator":      "#2a3448",
+      "toolbar_field_text":           "#b8bbc2",
+      //"toolbar_field_text_focus":   "#061229",
+      "toolbar_text":                 "#b8bbc2",
+      "toolbar_top_separator":        "#2a3448",
+      "toolbar_vertical_separator":   "#2a3448"
+    }
+  }
+}

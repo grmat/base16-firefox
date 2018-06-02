@@ -1,0 +1,38 @@
+{
+  "description": "base16-Github by Defman21",
+  "manifest_version": 2,
+  "name": "base16-Github",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#ffffff",
+      "button_background_active":     "#969896",             
+      "button_background_hover":      "#c8c8fa",
+      "icons":                        "#333333",
+      "icons_attention":              "#795da3",
+      //"opup":                       "#ffffff",
+      //"popup_border":               "#ffffff",
+      //"popup_highlight":            "#ffffff",
+      //"popup_highlight_text":       "#ffffff",
+      //"popup_text":                 "#ffffff",
+      //"tab_background_separator":   "#ffffff",
+      "tab_line":                     "#795da3",
+      "tab_loading":                  "#795da3",
+      "tab_selected":                 "#f5f5f5",
+      "tab_text":                     "#333333",
+      "textcolor":                    "#333333",
+      "toolbar":                      "#f5f5f5",
+      "toolbar_bottom_separator":     "#ffffff",
+      "toolbar_field":                "#c8c8fa",
+      "toolbar_field_border":         "#f5f5f5",
+      //"toolbar_field_border_focus": "#ffffff",
+      //"toolbar_field_focus":        "#ffffff",
+      "toolbar_field_separator":      "#f5f5f5",
+      "toolbar_field_text":           "#333333",
+      //"toolbar_field_text_focus":   "#ffffff",
+      "toolbar_text":                 "#333333",
+      "toolbar_top_separator":        "#f5f5f5",
+      "toolbar_vertical_separator":   "#f5f5f5"
+    }
+  }
+}

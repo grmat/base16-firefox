@@ -1,0 +1,38 @@
+{
+  "description": "base16-Monokai by Wimer Hazenberg (http://www.monokai.nl)",
+  "manifest_version": 2,
+  "name": "base16-Monokai",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#272822",
+      "button_background_active":     "#75715e",             
+      "button_background_hover":      "#49483e",
+      "icons":                        "#f8f8f2",
+      "icons_attention":              "#66d9ef",
+      //"opup":                       "#272822",
+      //"popup_border":               "#272822",
+      //"popup_highlight":            "#272822",
+      //"popup_highlight_text":       "#272822",
+      //"popup_text":                 "#272822",
+      //"tab_background_separator":   "#272822",
+      "tab_line":                     "#66d9ef",
+      "tab_loading":                  "#66d9ef",
+      "tab_selected":                 "#383830",
+      "tab_text":                     "#f8f8f2",
+      "textcolor":                    "#f8f8f2",
+      "toolbar":                      "#383830",
+      "toolbar_bottom_separator":     "#272822",
+      "toolbar_field":                "#49483e",
+      "toolbar_field_border":         "#383830",
+      //"toolbar_field_border_focus": "#272822",
+      //"toolbar_field_focus":        "#272822",
+      "toolbar_field_separator":      "#383830",
+      "toolbar_field_text":           "#f8f8f2",
+      //"toolbar_field_text_focus":   "#272822",
+      "toolbar_text":                 "#f8f8f2",
+      "toolbar_top_separator":        "#383830",
+      "toolbar_vertical_separator":   "#383830"
+    }
+  }
+}

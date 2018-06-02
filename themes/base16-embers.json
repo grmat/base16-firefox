@@ -1,0 +1,38 @@
+{
+  "description": "base16-Embers by Jannik Siebert (https://github.com/janniks)",
+  "manifest_version": 2,
+  "name": "base16-Embers",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#16130F",
+      "button_background_active":     "#5A5047",             
+      "button_background_hover":      "#433B32",
+      "icons":                        "#A39A90",
+      "icons_attention":              "#6D5782",
+      //"opup":                       "#16130F",
+      //"popup_border":               "#16130F",
+      //"popup_highlight":            "#16130F",
+      //"popup_highlight_text":       "#16130F",
+      //"popup_text":                 "#16130F",
+      //"tab_background_separator":   "#16130F",
+      "tab_line":                     "#6D5782",
+      "tab_loading":                  "#6D5782",
+      "tab_selected":                 "#2C2620",
+      "tab_text":                     "#A39A90",
+      "textcolor":                    "#A39A90",
+      "toolbar":                      "#2C2620",
+      "toolbar_bottom_separator":     "#16130F",
+      "toolbar_field":                "#433B32",
+      "toolbar_field_border":         "#2C2620",
+      //"toolbar_field_border_focus": "#16130F",
+      //"toolbar_field_focus":        "#16130F",
+      "toolbar_field_separator":      "#2C2620",
+      "toolbar_field_text":           "#A39A90",
+      //"toolbar_field_text_focus":   "#16130F",
+      "toolbar_text":                 "#A39A90",
+      "toolbar_top_separator":        "#2C2620",
+      "toolbar_vertical_separator":   "#2C2620"
+    }
+  }
+}

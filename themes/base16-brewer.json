@@ -1,0 +1,38 @@
+{
+  "description": "base16-Brewer by Timothée Poisot (http://github.com/tpoisot)",
+  "manifest_version": 2,
+  "name": "base16-Brewer",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#0c0d0e",
+      "button_background_active":     "#737475",             
+      "button_background_hover":      "#515253",
+      "icons":                        "#b7b8b9",
+      "icons_attention":              "#3182bd",
+      //"opup":                       "#0c0d0e",
+      //"popup_border":               "#0c0d0e",
+      //"popup_highlight":            "#0c0d0e",
+      //"popup_highlight_text":       "#0c0d0e",
+      //"popup_text":                 "#0c0d0e",
+      //"tab_background_separator":   "#0c0d0e",
+      "tab_line":                     "#3182bd",
+      "tab_loading":                  "#3182bd",
+      "tab_selected":                 "#2e2f30",
+      "tab_text":                     "#b7b8b9",
+      "textcolor":                    "#b7b8b9",
+      "toolbar":                      "#2e2f30",
+      "toolbar_bottom_separator":     "#0c0d0e",
+      "toolbar_field":                "#515253",
+      "toolbar_field_border":         "#2e2f30",
+      //"toolbar_field_border_focus": "#0c0d0e",
+      //"toolbar_field_focus":        "#0c0d0e",
+      "toolbar_field_separator":      "#2e2f30",
+      "toolbar_field_text":           "#b7b8b9",
+      //"toolbar_field_text_focus":   "#0c0d0e",
+      "toolbar_text":                 "#b7b8b9",
+      "toolbar_top_separator":        "#2e2f30",
+      "toolbar_vertical_separator":   "#2e2f30"
+    }
+  }
+}

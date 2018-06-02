@@ -1,0 +1,38 @@
+{
+  "description": "base16-Atelier Lakeside Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "manifest_version": 2,
+  "name": "base16-Atelier Lakeside Light",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#ebf8ff",
+      "button_background_active":     "#7195a8",             
+      "button_background_hover":      "#7ea2b4",
+      "icons":                        "#516d7b",
+      "icons_attention":              "#257fad",
+      //"opup":                       "#ebf8ff",
+      //"popup_border":               "#ebf8ff",
+      //"popup_highlight":            "#ebf8ff",
+      //"popup_highlight_text":       "#ebf8ff",
+      //"popup_text":                 "#ebf8ff",
+      //"tab_background_separator":   "#ebf8ff",
+      "tab_line":                     "#257fad",
+      "tab_loading":                  "#257fad",
+      "tab_selected":                 "#c1e4f6",
+      "tab_text":                     "#516d7b",
+      "textcolor":                    "#516d7b",
+      "toolbar":                      "#c1e4f6",
+      "toolbar_bottom_separator":     "#ebf8ff",
+      "toolbar_field":                "#7ea2b4",
+      "toolbar_field_border":         "#c1e4f6",
+      //"toolbar_field_border_focus": "#ebf8ff",
+      //"toolbar_field_focus":        "#ebf8ff",
+      "toolbar_field_separator":      "#c1e4f6",
+      "toolbar_field_text":           "#516d7b",
+      //"toolbar_field_text_focus":   "#ebf8ff",
+      "toolbar_text":                 "#516d7b",
+      "toolbar_top_separator":        "#c1e4f6",
+      "toolbar_vertical_separator":   "#c1e4f6"
+    }
+  }
+}

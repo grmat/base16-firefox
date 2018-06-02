@@ -1,0 +1,38 @@
+{
+  "description": "base16-Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)",
+  "manifest_version": 2,
+  "name": "base16-Marrakesh",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#201602",
+      "button_background_active":     "#6c6823",             
+      "button_background_hover":      "#5f5b17",
+      "icons":                        "#948e48",
+      "icons_attention":              "#477ca1",
+      //"opup":                       "#201602",
+      //"popup_border":               "#201602",
+      //"popup_highlight":            "#201602",
+      //"popup_highlight_text":       "#201602",
+      //"popup_text":                 "#201602",
+      //"tab_background_separator":   "#201602",
+      "tab_line":                     "#477ca1",
+      "tab_loading":                  "#477ca1",
+      "tab_selected":                 "#302e00",
+      "tab_text":                     "#948e48",
+      "textcolor":                    "#948e48",
+      "toolbar":                      "#302e00",
+      "toolbar_bottom_separator":     "#201602",
+      "toolbar_field":                "#5f5b17",
+      "toolbar_field_border":         "#302e00",
+      //"toolbar_field_border_focus": "#201602",
+      //"toolbar_field_focus":        "#201602",
+      "toolbar_field_separator":      "#302e00",
+      "toolbar_field_text":           "#948e48",
+      //"toolbar_field_text_focus":   "#201602",
+      "toolbar_text":                 "#948e48",
+      "toolbar_top_separator":        "#302e00",
+      "toolbar_vertical_separator":   "#302e00"
+    }
+  }
+}

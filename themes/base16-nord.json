@@ -1,0 +1,38 @@
+{
+  "description": "base16-Nord by arcticicestudio",
+  "manifest_version": 2,
+  "name": "base16-Nord",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#2E3440",
+      "button_background_active":     "#4C566A",             
+      "button_background_hover":      "#434C5E",
+      "icons":                        "#E5E9F0",
+      "icons_attention":              "#EBCB8B",
+      //"opup":                       "#2E3440",
+      //"popup_border":               "#2E3440",
+      //"popup_highlight":            "#2E3440",
+      //"popup_highlight_text":       "#2E3440",
+      //"popup_text":                 "#2E3440",
+      //"tab_background_separator":   "#2E3440",
+      "tab_line":                     "#EBCB8B",
+      "tab_loading":                  "#EBCB8B",
+      "tab_selected":                 "#3B4252",
+      "tab_text":                     "#E5E9F0",
+      "textcolor":                    "#E5E9F0",
+      "toolbar":                      "#3B4252",
+      "toolbar_bottom_separator":     "#2E3440",
+      "toolbar_field":                "#434C5E",
+      "toolbar_field_border":         "#3B4252",
+      //"toolbar_field_border_focus": "#2E3440",
+      //"toolbar_field_focus":        "#2E3440",
+      "toolbar_field_separator":      "#3B4252",
+      "toolbar_field_text":           "#E5E9F0",
+      //"toolbar_field_text_focus":   "#2E3440",
+      "toolbar_text":                 "#E5E9F0",
+      "toolbar_top_separator":        "#3B4252",
+      "toolbar_vertical_separator":   "#3B4252"
+    }
+  }
+}

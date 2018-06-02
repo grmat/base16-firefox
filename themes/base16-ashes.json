@@ -1,0 +1,38 @@
+{
+  "description": "base16-Ashes by Jannik Siebert (https://github.com/janniks)",
+  "manifest_version": 2,
+  "name": "base16-Ashes",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#1C2023",
+      "button_background_active":     "#747C84",             
+      "button_background_hover":      "#565E65",
+      "icons":                        "#C7CCD1",
+      "icons_attention":              "#AE95C7",
+      //"opup":                       "#1C2023",
+      //"popup_border":               "#1C2023",
+      //"popup_highlight":            "#1C2023",
+      //"popup_highlight_text":       "#1C2023",
+      //"popup_text":                 "#1C2023",
+      //"tab_background_separator":   "#1C2023",
+      "tab_line":                     "#AE95C7",
+      "tab_loading":                  "#AE95C7",
+      "tab_selected":                 "#393F45",
+      "tab_text":                     "#C7CCD1",
+      "textcolor":                    "#C7CCD1",
+      "toolbar":                      "#393F45",
+      "toolbar_bottom_separator":     "#1C2023",
+      "toolbar_field":                "#565E65",
+      "toolbar_field_border":         "#393F45",
+      //"toolbar_field_border_focus": "#1C2023",
+      //"toolbar_field_focus":        "#1C2023",
+      "toolbar_field_separator":      "#393F45",
+      "toolbar_field_text":           "#C7CCD1",
+      //"toolbar_field_text_focus":   "#1C2023",
+      "toolbar_text":                 "#C7CCD1",
+      "toolbar_top_separator":        "#393F45",
+      "toolbar_vertical_separator":   "#393F45"
+    }
+  }
+}

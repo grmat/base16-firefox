@@ -1,0 +1,38 @@
+{
+  "description": "base16-Eighties by Chris Kempson (http://chriskempson.com)",
+  "manifest_version": 2,
+  "name": "base16-Eighties",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#2d2d2d",
+      "button_background_active":     "#747369",             
+      "button_background_hover":      "#515151",
+      "icons":                        "#d3d0c8",
+      "icons_attention":              "#6699cc",
+      //"opup":                       "#2d2d2d",
+      //"popup_border":               "#2d2d2d",
+      //"popup_highlight":            "#2d2d2d",
+      //"popup_highlight_text":       "#2d2d2d",
+      //"popup_text":                 "#2d2d2d",
+      //"tab_background_separator":   "#2d2d2d",
+      "tab_line":                     "#6699cc",
+      "tab_loading":                  "#6699cc",
+      "tab_selected":                 "#393939",
+      "tab_text":                     "#d3d0c8",
+      "textcolor":                    "#d3d0c8",
+      "toolbar":                      "#393939",
+      "toolbar_bottom_separator":     "#2d2d2d",
+      "toolbar_field":                "#515151",
+      "toolbar_field_border":         "#393939",
+      //"toolbar_field_border_focus": "#2d2d2d",
+      //"toolbar_field_focus":        "#2d2d2d",
+      "toolbar_field_separator":      "#393939",
+      "toolbar_field_text":           "#d3d0c8",
+      //"toolbar_field_text_focus":   "#2d2d2d",
+      "toolbar_text":                 "#d3d0c8",
+      "toolbar_top_separator":        "#393939",
+      "toolbar_vertical_separator":   "#393939"
+    }
+  }
+}

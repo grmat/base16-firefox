@@ -1,0 +1,38 @@
+{
+  "description": "base16-Solar Flare by Chuck Harmston (https://chuck.harmston.ch)",
+  "manifest_version": 2,
+  "name": "base16-Solar Flare",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#18262F",
+      "button_background_active":     "#667581",             
+      "button_background_hover":      "#586875",
+      "icons":                        "#A6AFB8",
+      "icons_attention":              "#33B5E1",
+      //"opup":                       "#18262F",
+      //"popup_border":               "#18262F",
+      //"popup_highlight":            "#18262F",
+      //"popup_highlight_text":       "#18262F",
+      //"popup_text":                 "#18262F",
+      //"tab_background_separator":   "#18262F",
+      "tab_line":                     "#33B5E1",
+      "tab_loading":                  "#33B5E1",
+      "tab_selected":                 "#222E38",
+      "tab_text":                     "#A6AFB8",
+      "textcolor":                    "#A6AFB8",
+      "toolbar":                      "#222E38",
+      "toolbar_bottom_separator":     "#18262F",
+      "toolbar_field":                "#586875",
+      "toolbar_field_border":         "#222E38",
+      //"toolbar_field_border_focus": "#18262F",
+      //"toolbar_field_focus":        "#18262F",
+      "toolbar_field_separator":      "#222E38",
+      "toolbar_field_text":           "#A6AFB8",
+      //"toolbar_field_text_focus":   "#18262F",
+      "toolbar_text":                 "#A6AFB8",
+      "toolbar_top_separator":        "#222E38",
+      "toolbar_vertical_separator":   "#222E38"
+    }
+  }
+}

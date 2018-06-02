@@ -1,0 +1,38 @@
+{
+  "description": "base16-Classic Dark by Jason Heeris (http://heeris.id.au)",
+  "manifest_version": 2,
+  "name": "base16-Classic Dark",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#151515",
+      "button_background_active":     "#505050",             
+      "button_background_hover":      "#303030",
+      "icons":                        "#D0D0D0",
+      "icons_attention":              "#6A9FB5",
+      //"opup":                       "#151515",
+      //"popup_border":               "#151515",
+      //"popup_highlight":            "#151515",
+      //"popup_highlight_text":       "#151515",
+      //"popup_text":                 "#151515",
+      //"tab_background_separator":   "#151515",
+      "tab_line":                     "#6A9FB5",
+      "tab_loading":                  "#6A9FB5",
+      "tab_selected":                 "#202020",
+      "tab_text":                     "#D0D0D0",
+      "textcolor":                    "#D0D0D0",
+      "toolbar":                      "#202020",
+      "toolbar_bottom_separator":     "#151515",
+      "toolbar_field":                "#303030",
+      "toolbar_field_border":         "#202020",
+      //"toolbar_field_border_focus": "#151515",
+      //"toolbar_field_focus":        "#151515",
+      "toolbar_field_separator":      "#202020",
+      "toolbar_field_text":           "#D0D0D0",
+      //"toolbar_field_text_focus":   "#151515",
+      "toolbar_text":                 "#D0D0D0",
+      "toolbar_top_separator":        "#202020",
+      "toolbar_vertical_separator":   "#202020"
+    }
+  }
+}

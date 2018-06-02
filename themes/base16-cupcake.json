@@ -1,0 +1,38 @@
+{
+  "description": "base16-Cupcake by Chris Kempson (http://chriskempson.com)",
+  "manifest_version": 2,
+  "name": "base16-Cupcake",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#fbf1f2",
+      "button_background_active":     "#bfb9c6",             
+      "button_background_hover":      "#d8d5dd",
+      "icons":                        "#8b8198",
+      "icons_attention":              "#7297B9",
+      //"opup":                       "#fbf1f2",
+      //"popup_border":               "#fbf1f2",
+      //"popup_highlight":            "#fbf1f2",
+      //"popup_highlight_text":       "#fbf1f2",
+      //"popup_text":                 "#fbf1f2",
+      //"tab_background_separator":   "#fbf1f2",
+      "tab_line":                     "#7297B9",
+      "tab_loading":                  "#7297B9",
+      "tab_selected":                 "#f2f1f4",
+      "tab_text":                     "#8b8198",
+      "textcolor":                    "#8b8198",
+      "toolbar":                      "#f2f1f4",
+      "toolbar_bottom_separator":     "#fbf1f2",
+      "toolbar_field":                "#d8d5dd",
+      "toolbar_field_border":         "#f2f1f4",
+      //"toolbar_field_border_focus": "#fbf1f2",
+      //"toolbar_field_focus":        "#fbf1f2",
+      "toolbar_field_separator":      "#f2f1f4",
+      "toolbar_field_text":           "#8b8198",
+      //"toolbar_field_text_focus":   "#fbf1f2",
+      "toolbar_text":                 "#8b8198",
+      "toolbar_top_separator":        "#f2f1f4",
+      "toolbar_vertical_separator":   "#f2f1f4"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "description": "base16-Darktooth by Jason Milkins (https://github.com/jasonm23)",
+  "manifest_version": 2,
+  "name": "base16-Darktooth",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#1D2021",
+      "button_background_active":     "#665C54",             
+      "button_background_hover":      "#504945",
+      "icons":                        "#A89984",
+      "icons_attention":              "#0D6678",
+      //"opup":                       "#1D2021",
+      //"popup_border":               "#1D2021",
+      //"popup_highlight":            "#1D2021",
+      //"popup_highlight_text":       "#1D2021",
+      //"popup_text":                 "#1D2021",
+      //"tab_background_separator":   "#1D2021",
+      "tab_line":                     "#0D6678",
+      "tab_loading":                  "#0D6678",
+      "tab_selected":                 "#32302F",
+      "tab_text":                     "#A89984",
+      "textcolor":                    "#A89984",
+      "toolbar":                      "#32302F",
+      "toolbar_bottom_separator":     "#1D2021",
+      "toolbar_field":                "#504945",
+      "toolbar_field_border":         "#32302F",
+      //"toolbar_field_border_focus": "#1D2021",
+      //"toolbar_field_focus":        "#1D2021",
+      "toolbar_field_separator":      "#32302F",
+      "toolbar_field_text":           "#A89984",
+      //"toolbar_field_text_focus":   "#1D2021",
+      "toolbar_text":                 "#A89984",
+      "toolbar_top_separator":        "#32302F",
+      "toolbar_vertical_separator":   "#32302F"
+    }
+  }
+}

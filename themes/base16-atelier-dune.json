@@ -1,0 +1,38 @@
+{
+  "description": "base16-Atelier Dune by Bram de Haan (http://atelierbramdehaan.nl)",
+  "manifest_version": 2,
+  "name": "base16-Atelier Dune",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#20201d",
+      "button_background_active":     "#7d7a68",             
+      "button_background_hover":      "#6e6b5e",
+      "icons":                        "#a6a28c",
+      "icons_attention":              "#6684e1",
+      //"opup":                       "#20201d",
+      //"popup_border":               "#20201d",
+      //"popup_highlight":            "#20201d",
+      //"popup_highlight_text":       "#20201d",
+      //"popup_text":                 "#20201d",
+      //"tab_background_separator":   "#20201d",
+      "tab_line":                     "#6684e1",
+      "tab_loading":                  "#6684e1",
+      "tab_selected":                 "#292824",
+      "tab_text":                     "#a6a28c",
+      "textcolor":                    "#a6a28c",
+      "toolbar":                      "#292824",
+      "toolbar_bottom_separator":     "#20201d",
+      "toolbar_field":                "#6e6b5e",
+      "toolbar_field_border":         "#292824",
+      //"toolbar_field_border_focus": "#20201d",
+      //"toolbar_field_focus":        "#20201d",
+      "toolbar_field_separator":      "#292824",
+      "toolbar_field_text":           "#a6a28c",
+      //"toolbar_field_text_focus":   "#20201d",
+      "toolbar_text":                 "#a6a28c",
+      "toolbar_top_separator":        "#292824",
+      "toolbar_vertical_separator":   "#292824"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "description": "base16-Unikitty Dark by Josh W Lewis (@joshwlewis)",
+  "manifest_version": 2,
+  "name": "base16-Unikitty Dark",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#2e2a31",
+      "button_background_active":     "#838085",             
+      "button_background_hover":      "#666369",
+      "icons":                        "#bcbabe",
+      "icons_attention":              "#796af5",
+      //"opup":                       "#2e2a31",
+      //"popup_border":               "#2e2a31",
+      //"popup_highlight":            "#2e2a31",
+      //"popup_highlight_text":       "#2e2a31",
+      //"popup_text":                 "#2e2a31",
+      //"tab_background_separator":   "#2e2a31",
+      "tab_line":                     "#796af5",
+      "tab_loading":                  "#796af5",
+      "tab_selected":                 "#4a464d",
+      "tab_text":                     "#bcbabe",
+      "textcolor":                    "#bcbabe",
+      "toolbar":                      "#4a464d",
+      "toolbar_bottom_separator":     "#2e2a31",
+      "toolbar_field":                "#666369",
+      "toolbar_field_border":         "#4a464d",
+      //"toolbar_field_border_focus": "#2e2a31",
+      //"toolbar_field_focus":        "#2e2a31",
+      "toolbar_field_separator":      "#4a464d",
+      "toolbar_field_text":           "#bcbabe",
+      //"toolbar_field_text_focus":   "#2e2a31",
+      "toolbar_text":                 "#bcbabe",
+      "toolbar_top_separator":        "#4a464d",
+      "toolbar_vertical_separator":   "#4a464d"
+    }
+  }
+}

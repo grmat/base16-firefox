@@ -1,0 +1,38 @@
+{
+  "description": "base16-Atelier Sulphurpool by Bram de Haan (http://atelierbramdehaan.nl)",
+  "manifest_version": 2,
+  "name": "base16-Atelier Sulphurpool",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#202746",
+      "button_background_active":     "#6b7394",             
+      "button_background_hover":      "#5e6687",
+      "icons":                        "#979db4",
+      "icons_attention":              "#3d8fd1",
+      //"opup":                       "#202746",
+      //"popup_border":               "#202746",
+      //"popup_highlight":            "#202746",
+      //"popup_highlight_text":       "#202746",
+      //"popup_text":                 "#202746",
+      //"tab_background_separator":   "#202746",
+      "tab_line":                     "#3d8fd1",
+      "tab_loading":                  "#3d8fd1",
+      "tab_selected":                 "#293256",
+      "tab_text":                     "#979db4",
+      "textcolor":                    "#979db4",
+      "toolbar":                      "#293256",
+      "toolbar_bottom_separator":     "#202746",
+      "toolbar_field":                "#5e6687",
+      "toolbar_field_border":         "#293256",
+      //"toolbar_field_border_focus": "#202746",
+      //"toolbar_field_focus":        "#202746",
+      "toolbar_field_separator":      "#293256",
+      "toolbar_field_text":           "#979db4",
+      //"toolbar_field_text_focus":   "#202746",
+      "toolbar_text":                 "#979db4",
+      "toolbar_top_separator":        "#293256",
+      "toolbar_vertical_separator":   "#293256"
+    }
+  }
+}

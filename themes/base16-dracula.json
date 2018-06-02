@@ -1,0 +1,38 @@
+{
+  "description": "base16-Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
+  "manifest_version": 2,
+  "name": "base16-Dracula",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#282936",
+      "button_background_active":     "#4d4f68",             
+      "button_background_hover":      "#626483",
+      "icons":                        "#e9e9f4",
+      "icons_attention":              "#62d6e8",
+      //"opup":                       "#282936",
+      //"popup_border":               "#282936",
+      //"popup_highlight":            "#282936",
+      //"popup_highlight_text":       "#282936",
+      //"popup_text":                 "#282936",
+      //"tab_background_separator":   "#282936",
+      "tab_line":                     "#62d6e8",
+      "tab_loading":                  "#62d6e8",
+      "tab_selected":                 "#3a3c4e",
+      "tab_text":                     "#e9e9f4",
+      "textcolor":                    "#e9e9f4",
+      "toolbar":                      "#3a3c4e",
+      "toolbar_bottom_separator":     "#282936",
+      "toolbar_field":                "#626483",
+      "toolbar_field_border":         "#3a3c4e",
+      //"toolbar_field_border_focus": "#282936",
+      //"toolbar_field_focus":        "#282936",
+      "toolbar_field_separator":      "#3a3c4e",
+      "toolbar_field_text":           "#e9e9f4",
+      //"toolbar_field_text_focus":   "#282936",
+      "toolbar_text":                 "#e9e9f4",
+      "toolbar_top_separator":        "#3a3c4e",
+      "toolbar_vertical_separator":   "#3a3c4e"
+    }
+  }
+}

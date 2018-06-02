@@ -1,0 +1,38 @@
+{
+  "description": "base16-Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)",
+  "manifest_version": 2,
+  "name": "base16-Spacemacs",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#1f2022",
+      "button_background_active":     "#585858",             
+      "button_background_hover":      "#444155",
+      "icons":                        "#a3a3a3",
+      "icons_attention":              "#4f97d7",
+      //"opup":                       "#1f2022",
+      //"popup_border":               "#1f2022",
+      //"popup_highlight":            "#1f2022",
+      //"popup_highlight_text":       "#1f2022",
+      //"popup_text":                 "#1f2022",
+      //"tab_background_separator":   "#1f2022",
+      "tab_line":                     "#4f97d7",
+      "tab_loading":                  "#4f97d7",
+      "tab_selected":                 "#282828",
+      "tab_text":                     "#a3a3a3",
+      "textcolor":                    "#a3a3a3",
+      "toolbar":                      "#282828",
+      "toolbar_bottom_separator":     "#1f2022",
+      "toolbar_field":                "#444155",
+      "toolbar_field_border":         "#282828",
+      //"toolbar_field_border_focus": "#1f2022",
+      //"toolbar_field_focus":        "#1f2022",
+      "toolbar_field_separator":      "#282828",
+      "toolbar_field_text":           "#a3a3a3",
+      //"toolbar_field_text_focus":   "#1f2022",
+      "toolbar_text":                 "#a3a3a3",
+      "toolbar_top_separator":        "#282828",
+      "toolbar_vertical_separator":   "#282828"
+    }
+  }
+}

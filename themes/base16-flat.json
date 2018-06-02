@@ -1,0 +1,38 @@
+{
+  "description": "base16-Flat by Chris Kempson (http://chriskempson.com)",
+  "manifest_version": 2,
+  "name": "base16-Flat",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "accentcolor":                  "#2C3E50",
+      "button_background_active":     "#95A5A6",             
+      "button_background_hover":      "#7F8C8D",
+      "icons":                        "#e0e0e0",
+      "icons_attention":              "#3498DB",
+      //"opup":                       "#2C3E50",
+      //"popup_border":               "#2C3E50",
+      //"popup_highlight":            "#2C3E50",
+      //"popup_highlight_text":       "#2C3E50",
+      //"popup_text":                 "#2C3E50",
+      //"tab_background_separator":   "#2C3E50",
+      "tab_line":                     "#3498DB",
+      "tab_loading":                  "#3498DB",
+      "tab_selected":                 "#34495E",
+      "tab_text":                     "#e0e0e0",
+      "textcolor":                    "#e0e0e0",
+      "toolbar":                      "#34495E",
+      "toolbar_bottom_separator":     "#2C3E50",
+      "toolbar_field":                "#7F8C8D",
+      "toolbar_field_border":         "#34495E",
+      //"toolbar_field_border_focus": "#2C3E50",
+      //"toolbar_field_focus":        "#2C3E50",
+      "toolbar_field_separator":      "#34495E",
+      "toolbar_field_text":           "#e0e0e0",
+      //"toolbar_field_text_focus":   "#2C3E50",
+      "toolbar_text":                 "#e0e0e0",
+      "toolbar_top_separator":        "#34495E",
+      "toolbar_vertical_separator":   "#34495E"
+    }
+  }
+}
