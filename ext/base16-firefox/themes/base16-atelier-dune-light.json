@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Dune Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#fefbec",
+    "button_background_active":     "#999580",
+    "button_background_hover":      "#a6a28c",
+    "icons":                        "#6e6b5e",
+    "icons_attention":              "#6684e1",
+    "tab_line":                     "#6684e1",
+    "tab_loading":                  "#6684e1",
+    "tab_selected":                 "#e8e4cf",
+    "tab_text":                     "#6e6b5e",
+    "textcolor":                    "#6e6b5e",
+    "toolbar":                      "#e8e4cf",
+    "toolbar_bottom_separator":     "#fefbec",
+    "toolbar_field":                "#a6a28c",
+    "toolbar_field_border":         "#e8e4cf",
+    "toolbar_field_separator":      "#e8e4cf",
+    "toolbar_field_text":           "#6e6b5e",
+    "toolbar_text":                 "#6e6b5e",
+    "toolbar_top_separator":        "#e8e4cf",
+    "toolbar_vertical_separator":   "#e8e4cf"
+  }
+}

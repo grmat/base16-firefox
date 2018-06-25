@@ -1,0 +1,24 @@
+{
+  "info": "base16-Apathy by Jannik Siebert (https://github.com/janniks)",
+  "colors": {
+    "accentcolor":                  "#031A16",
+    "button_background_active":     "#2B685E",
+    "button_background_hover":      "#184E45",
+    "icons":                        "#81B5AC",
+    "icons_attention":              "#96883E",
+    "tab_line":                     "#96883E",
+    "tab_loading":                  "#96883E",
+    "tab_selected":                 "#0B342D",
+    "tab_text":                     "#81B5AC",
+    "textcolor":                    "#81B5AC",
+    "toolbar":                      "#0B342D",
+    "toolbar_bottom_separator":     "#031A16",
+    "toolbar_field":                "#184E45",
+    "toolbar_field_border":         "#0B342D",
+    "toolbar_field_separator":      "#0B342D",
+    "toolbar_field_text":           "#81B5AC",
+    "toolbar_text":                 "#81B5AC",
+    "toolbar_top_separator":        "#0B342D",
+    "toolbar_vertical_separator":   "#0B342D"
+  }
+}

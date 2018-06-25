@@ -1,0 +1,24 @@
+{
+  "info": "base16-Material Palenight by Nate Peterson",
+  "colors": {
+    "accentcolor":                  "#292D3E",
+    "button_background_active":     "#676E95",
+    "button_background_hover":      "#32374D",
+    "icons":                        "#959DCB",
+    "icons_attention":              "#82AAFF",
+    "tab_line":                     "#82AAFF",
+    "tab_loading":                  "#82AAFF",
+    "tab_selected":                 "#444267",
+    "tab_text":                     "#959DCB",
+    "textcolor":                    "#959DCB",
+    "toolbar":                      "#444267",
+    "toolbar_bottom_separator":     "#292D3E",
+    "toolbar_field":                "#32374D",
+    "toolbar_field_border":         "#444267",
+    "toolbar_field_separator":      "#444267",
+    "toolbar_field_text":           "#959DCB",
+    "toolbar_text":                 "#959DCB",
+    "toolbar_top_separator":        "#444267",
+    "toolbar_vertical_separator":   "#444267"
+  }
+}

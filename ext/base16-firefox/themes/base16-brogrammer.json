@@ -1,0 +1,24 @@
+{
+  "info": "base16-Brogrammer by Vik Ramanujam (http://github.com/piggyslasher)",
+  "colors": {
+    "accentcolor":                  "#1f1f1f",
+    "button_background_active":     "#ecba0f",
+    "button_background_hover":      "#2dc55e",
+    "icons":                        "#4e5ab7",
+    "icons_attention":              "#5350b9",
+    "tab_line":                     "#5350b9",
+    "tab_loading":                  "#5350b9",
+    "tab_selected":                 "#f81118",
+    "tab_text":                     "#4e5ab7",
+    "textcolor":                    "#4e5ab7",
+    "toolbar":                      "#f81118",
+    "toolbar_bottom_separator":     "#1f1f1f",
+    "toolbar_field":                "#2dc55e",
+    "toolbar_field_border":         "#f81118",
+    "toolbar_field_separator":      "#f81118",
+    "toolbar_field_text":           "#4e5ab7",
+    "toolbar_text":                 "#4e5ab7",
+    "toolbar_top_separator":        "#f81118",
+    "toolbar_vertical_separator":   "#f81118"
+  }
+}

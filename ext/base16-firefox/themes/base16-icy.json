@@ -1,0 +1,24 @@
+{
+  "info": "base16-Icy Dark by icyphox (https://icyphox.ga)",
+  "colors": {
+    "accentcolor":                  "#021012",
+    "button_background_active":     "#052e34",
+    "button_background_hover":      "#041f23",
+    "icons":                        "#095b67",
+    "icons_attention":              "#00bcd4",
+    "tab_line":                     "#00bcd4",
+    "tab_loading":                  "#00bcd4",
+    "tab_selected":                 "#031619",
+    "tab_text":                     "#095b67",
+    "textcolor":                    "#095b67",
+    "toolbar":                      "#031619",
+    "toolbar_bottom_separator":     "#021012",
+    "toolbar_field":                "#041f23",
+    "toolbar_field_border":         "#031619",
+    "toolbar_field_separator":      "#031619",
+    "toolbar_field_text":           "#095b67",
+    "toolbar_text":                 "#095b67",
+    "toolbar_top_separator":        "#031619",
+    "toolbar_vertical_separator":   "#031619"
+  }
+}

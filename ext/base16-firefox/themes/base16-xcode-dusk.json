@@ -1,0 +1,24 @@
+{
+  "info": "base16-XCode Dusk by Elsa Gonsiorowski (https://github.com/gonsie)",
+  "colors": {
+    "accentcolor":                  "#282B35",
+    "button_background_active":     "#686A71",
+    "button_background_hover":      "#53555D",
+    "icons":                        "#939599",
+    "icons_attention":              "#790EAD",
+    "tab_line":                     "#790EAD",
+    "tab_loading":                  "#790EAD",
+    "tab_selected":                 "#3D4048",
+    "tab_text":                     "#939599",
+    "textcolor":                    "#939599",
+    "toolbar":                      "#3D4048",
+    "toolbar_bottom_separator":     "#282B35",
+    "toolbar_field":                "#53555D",
+    "toolbar_field_border":         "#3D4048",
+    "toolbar_field_separator":      "#3D4048",
+    "toolbar_field_text":           "#939599",
+    "toolbar_text":                 "#939599",
+    "toolbar_top_separator":        "#3D4048",
+    "toolbar_vertical_separator":   "#3D4048"
+  }
+}

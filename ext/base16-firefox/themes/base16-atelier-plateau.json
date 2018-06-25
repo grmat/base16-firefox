@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Plateau by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#1b1818",
+    "button_background_active":     "#655d5d",
+    "button_background_hover":      "#585050",
+    "icons":                        "#8a8585",
+    "icons_attention":              "#7272ca",
+    "tab_line":                     "#7272ca",
+    "tab_loading":                  "#7272ca",
+    "tab_selected":                 "#292424",
+    "tab_text":                     "#8a8585",
+    "textcolor":                    "#8a8585",
+    "toolbar":                      "#292424",
+    "toolbar_bottom_separator":     "#1b1818",
+    "toolbar_field":                "#585050",
+    "toolbar_field_border":         "#292424",
+    "toolbar_field_separator":      "#292424",
+    "toolbar_field_text":           "#8a8585",
+    "toolbar_text":                 "#8a8585",
+    "toolbar_top_separator":        "#292424",
+    "toolbar_vertical_separator":   "#292424"
+  }
+}

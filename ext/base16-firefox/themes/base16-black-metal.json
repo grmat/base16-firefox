@@ -1,0 +1,24 @@
+{
+  "info": "base16-Black Metal by metalelf0 (https://github.com/metalelf0)",
+  "colors": {
+    "accentcolor":                  "#000000",
+    "button_background_active":     "#333333",
+    "button_background_hover":      "#222222",
+    "icons":                        "#c1c1c1",
+    "icons_attention":              "#888888",
+    "tab_line":                     "#888888",
+    "tab_loading":                  "#888888",
+    "tab_selected":                 "#121212",
+    "tab_text":                     "#c1c1c1",
+    "textcolor":                    "#c1c1c1",
+    "toolbar":                      "#121212",
+    "toolbar_bottom_separator":     "#000000",
+    "toolbar_field":                "#222222",
+    "toolbar_field_border":         "#121212",
+    "toolbar_field_separator":      "#121212",
+    "toolbar_field_text":           "#c1c1c1",
+    "toolbar_text":                 "#c1c1c1",
+    "toolbar_top_separator":        "#121212",
+    "toolbar_vertical_separator":   "#121212"
+  }
+}

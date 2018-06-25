@@ -1,0 +1,24 @@
+{
+  "info": "base16-Ocean by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "accentcolor":                  "#2b303b",
+    "button_background_active":     "#65737e",
+    "button_background_hover":      "#4f5b66",
+    "icons":                        "#c0c5ce",
+    "icons_attention":              "#8fa1b3",
+    "tab_line":                     "#8fa1b3",
+    "tab_loading":                  "#8fa1b3",
+    "tab_selected":                 "#343d46",
+    "tab_text":                     "#c0c5ce",
+    "textcolor":                    "#c0c5ce",
+    "toolbar":                      "#343d46",
+    "toolbar_bottom_separator":     "#2b303b",
+    "toolbar_field":                "#4f5b66",
+    "toolbar_field_border":         "#343d46",
+    "toolbar_field_separator":      "#343d46",
+    "toolbar_field_text":           "#c0c5ce",
+    "toolbar_text":                 "#c0c5ce",
+    "toolbar_top_separator":        "#343d46",
+    "toolbar_vertical_separator":   "#343d46"
+  }
+}

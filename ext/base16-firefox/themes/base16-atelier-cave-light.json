@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#efecf4",
+    "button_background_active":     "#7e7887",
+    "button_background_hover":      "#8b8792",
+    "icons":                        "#585260",
+    "icons_attention":              "#576ddb",
+    "tab_line":                     "#576ddb",
+    "tab_loading":                  "#576ddb",
+    "tab_selected":                 "#e2dfe7",
+    "tab_text":                     "#585260",
+    "textcolor":                    "#585260",
+    "toolbar":                      "#e2dfe7",
+    "toolbar_bottom_separator":     "#efecf4",
+    "toolbar_field":                "#8b8792",
+    "toolbar_field_border":         "#e2dfe7",
+    "toolbar_field_separator":      "#e2dfe7",
+    "toolbar_field_text":           "#585260",
+    "toolbar_text":                 "#585260",
+    "toolbar_top_separator":        "#e2dfe7",
+    "toolbar_vertical_separator":   "#e2dfe7"
+  }
+}

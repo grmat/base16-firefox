@@ -1,0 +1,24 @@
+{
+  "info": "base16-Tomorrow Night by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "accentcolor":                  "#1d1f21",
+    "button_background_active":     "#969896",
+    "button_background_hover":      "#373b41",
+    "icons":                        "#c5c8c6",
+    "icons_attention":              "#81a2be",
+    "tab_line":                     "#81a2be",
+    "tab_loading":                  "#81a2be",
+    "tab_selected":                 "#282a2e",
+    "tab_text":                     "#c5c8c6",
+    "textcolor":                    "#c5c8c6",
+    "toolbar":                      "#282a2e",
+    "toolbar_bottom_separator":     "#1d1f21",
+    "toolbar_field":                "#373b41",
+    "toolbar_field_border":         "#282a2e",
+    "toolbar_field_separator":      "#282a2e",
+    "toolbar_field_text":           "#c5c8c6",
+    "toolbar_text":                 "#c5c8c6",
+    "toolbar_top_separator":        "#282a2e",
+    "toolbar_vertical_separator":   "#282a2e"
+  }
+}

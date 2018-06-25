@@ -1,0 +1,24 @@
+{
+  "info": "base16-Ashes by Jannik Siebert (https://github.com/janniks)",
+  "colors": {
+    "accentcolor":                  "#1C2023",
+    "button_background_active":     "#747C84",
+    "button_background_hover":      "#565E65",
+    "icons":                        "#C7CCD1",
+    "icons_attention":              "#AE95C7",
+    "tab_line":                     "#AE95C7",
+    "tab_loading":                  "#AE95C7",
+    "tab_selected":                 "#393F45",
+    "tab_text":                     "#C7CCD1",
+    "textcolor":                    "#C7CCD1",
+    "toolbar":                      "#393F45",
+    "toolbar_bottom_separator":     "#1C2023",
+    "toolbar_field":                "#565E65",
+    "toolbar_field_border":         "#393F45",
+    "toolbar_field_separator":      "#393F45",
+    "toolbar_field_text":           "#C7CCD1",
+    "toolbar_text":                 "#C7CCD1",
+    "toolbar_top_separator":        "#393F45",
+    "toolbar_vertical_separator":   "#393F45"
+  }
+}

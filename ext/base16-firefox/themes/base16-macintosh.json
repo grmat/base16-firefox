@@ -1,0 +1,24 @@
+{
+  "info": "base16-Macintosh by Rebecca Bettencourt (http://www.kreativekorp.com)",
+  "colors": {
+    "accentcolor":                  "#000000",
+    "button_background_active":     "#808080",
+    "button_background_hover":      "#404040",
+    "icons":                        "#c0c0c0",
+    "icons_attention":              "#0000d3",
+    "tab_line":                     "#0000d3",
+    "tab_loading":                  "#0000d3",
+    "tab_selected":                 "#404040",
+    "tab_text":                     "#c0c0c0",
+    "textcolor":                    "#c0c0c0",
+    "toolbar":                      "#404040",
+    "toolbar_bottom_separator":     "#000000",
+    "toolbar_field":                "#404040",
+    "toolbar_field_border":         "#404040",
+    "toolbar_field_separator":      "#404040",
+    "toolbar_field_text":           "#c0c0c0",
+    "toolbar_text":                 "#c0c0c0",
+    "toolbar_top_separator":        "#404040",
+    "toolbar_vertical_separator":   "#404040"
+  }
+}

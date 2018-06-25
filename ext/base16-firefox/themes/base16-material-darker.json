@@ -1,0 +1,24 @@
+{
+  "info": "base16-Material Darker by Nate Peterson",
+  "colors": {
+    "accentcolor":                  "#212121",
+    "button_background_active":     "#4A4A4A",
+    "button_background_hover":      "#353535",
+    "icons":                        "#EEFFFF",
+    "icons_attention":              "#82AAFF",
+    "tab_line":                     "#82AAFF",
+    "tab_loading":                  "#82AAFF",
+    "tab_selected":                 "#303030",
+    "tab_text":                     "#EEFFFF",
+    "textcolor":                    "#EEFFFF",
+    "toolbar":                      "#303030",
+    "toolbar_bottom_separator":     "#212121",
+    "toolbar_field":                "#353535",
+    "toolbar_field_border":         "#303030",
+    "toolbar_field_separator":      "#303030",
+    "toolbar_field_text":           "#EEFFFF",
+    "toolbar_text":                 "#EEFFFF",
+    "toolbar_top_separator":        "#303030",
+    "toolbar_vertical_separator":   "#303030"
+  }
+}

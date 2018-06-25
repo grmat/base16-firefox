@@ -1,0 +1,24 @@
+{
+  "info": "base16-Grayscale Dark by Alexandre Gavioli (https://github.com/Alexx2/)",
+  "colors": {
+    "accentcolor":                  "#101010",
+    "button_background_active":     "#525252",
+    "button_background_hover":      "#464646",
+    "icons":                        "#b9b9b9",
+    "icons_attention":              "#686868",
+    "tab_line":                     "#686868",
+    "tab_loading":                  "#686868",
+    "tab_selected":                 "#252525",
+    "tab_text":                     "#b9b9b9",
+    "textcolor":                    "#b9b9b9",
+    "toolbar":                      "#252525",
+    "toolbar_bottom_separator":     "#101010",
+    "toolbar_field":                "#464646",
+    "toolbar_field_border":         "#252525",
+    "toolbar_field_separator":      "#252525",
+    "toolbar_field_text":           "#b9b9b9",
+    "toolbar_text":                 "#b9b9b9",
+    "toolbar_top_separator":        "#252525",
+    "toolbar_vertical_separator":   "#252525"
+  }
+}

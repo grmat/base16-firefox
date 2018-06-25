@@ -1,0 +1,24 @@
+{
+  "info": "base16-Bespin by Jan T. Sott",
+  "colors": {
+    "accentcolor":                  "#28211c",
+    "button_background_active":     "#666666",
+    "button_background_hover":      "#5e5d5c",
+    "icons":                        "#8a8986",
+    "icons_attention":              "#5ea6ea",
+    "tab_line":                     "#5ea6ea",
+    "tab_loading":                  "#5ea6ea",
+    "tab_selected":                 "#36312e",
+    "tab_text":                     "#8a8986",
+    "textcolor":                    "#8a8986",
+    "toolbar":                      "#36312e",
+    "toolbar_bottom_separator":     "#28211c",
+    "toolbar_field":                "#5e5d5c",
+    "toolbar_field_border":         "#36312e",
+    "toolbar_field_separator":      "#36312e",
+    "toolbar_field_text":           "#8a8986",
+    "toolbar_text":                 "#8a8986",
+    "toolbar_top_separator":        "#36312e",
+    "toolbar_vertical_separator":   "#36312e"
+  }
+}

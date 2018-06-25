@@ -1,0 +1,24 @@
+{
+  "info": "base16-Isotope by Jan T. Sott",
+  "colors": {
+    "accentcolor":                  "#000000",
+    "button_background_active":     "#808080",
+    "button_background_hover":      "#606060",
+    "icons":                        "#d0d0d0",
+    "icons_attention":              "#0066ff",
+    "tab_line":                     "#0066ff",
+    "tab_loading":                  "#0066ff",
+    "tab_selected":                 "#404040",
+    "tab_text":                     "#d0d0d0",
+    "textcolor":                    "#d0d0d0",
+    "toolbar":                      "#404040",
+    "toolbar_bottom_separator":     "#000000",
+    "toolbar_field":                "#606060",
+    "toolbar_field_border":         "#404040",
+    "toolbar_field_separator":      "#404040",
+    "toolbar_field_text":           "#d0d0d0",
+    "toolbar_text":                 "#d0d0d0",
+    "toolbar_top_separator":        "#404040",
+    "toolbar_vertical_separator":   "#404040"
+  }
+}

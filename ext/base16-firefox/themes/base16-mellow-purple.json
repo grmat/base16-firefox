@@ -1,0 +1,24 @@
+{
+  "info": "base16-Mellow Purple by gidsi",
+  "colors": {
+    "accentcolor":                  "#1e0528",
+    "button_background_active":     "#320f55",
+    "button_background_hover":      "#331354",
+    "icons":                        "#ffeeff",
+    "icons_attention":              "#550068",
+    "tab_line":                     "#550068",
+    "tab_loading":                  "#550068",
+    "tab_selected":                 "#1A092D",
+    "tab_text":                     "#ffeeff",
+    "textcolor":                    "#ffeeff",
+    "toolbar":                      "#1A092D",
+    "toolbar_bottom_separator":     "#1e0528",
+    "toolbar_field":                "#331354",
+    "toolbar_field_border":         "#1A092D",
+    "toolbar_field_separator":      "#1A092D",
+    "toolbar_field_text":           "#ffeeff",
+    "toolbar_text":                 "#ffeeff",
+    "toolbar_top_separator":        "#1A092D",
+    "toolbar_vertical_separator":   "#1A092D"
+  }
+}

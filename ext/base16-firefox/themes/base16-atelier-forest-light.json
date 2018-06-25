@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#f1efee",
+    "button_background_active":     "#9c9491",
+    "button_background_hover":      "#a8a19f",
+    "icons":                        "#68615e",
+    "icons_attention":              "#407ee7",
+    "tab_line":                     "#407ee7",
+    "tab_loading":                  "#407ee7",
+    "tab_selected":                 "#e6e2e0",
+    "tab_text":                     "#68615e",
+    "textcolor":                    "#68615e",
+    "toolbar":                      "#e6e2e0",
+    "toolbar_bottom_separator":     "#f1efee",
+    "toolbar_field":                "#a8a19f",
+    "toolbar_field_border":         "#e6e2e0",
+    "toolbar_field_separator":      "#e6e2e0",
+    "toolbar_field_text":           "#68615e",
+    "toolbar_text":                 "#68615e",
+    "toolbar_top_separator":        "#e6e2e0",
+    "toolbar_vertical_separator":   "#e6e2e0"
+  }
+}

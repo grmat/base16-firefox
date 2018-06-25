@@ -1,0 +1,24 @@
+{
+  "info": "base16-Flat by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "accentcolor":                  "#2C3E50",
+    "button_background_active":     "#95A5A6",
+    "button_background_hover":      "#7F8C8D",
+    "icons":                        "#e0e0e0",
+    "icons_attention":              "#3498DB",
+    "tab_line":                     "#3498DB",
+    "tab_loading":                  "#3498DB",
+    "tab_selected":                 "#34495E",
+    "tab_text":                     "#e0e0e0",
+    "textcolor":                    "#e0e0e0",
+    "toolbar":                      "#34495E",
+    "toolbar_bottom_separator":     "#2C3E50",
+    "toolbar_field":                "#7F8C8D",
+    "toolbar_field_border":         "#34495E",
+    "toolbar_field_separator":      "#34495E",
+    "toolbar_field_text":           "#e0e0e0",
+    "toolbar_text":                 "#e0e0e0",
+    "toolbar_top_separator":        "#34495E",
+    "toolbar_vertical_separator":   "#34495E"
+  }
+}

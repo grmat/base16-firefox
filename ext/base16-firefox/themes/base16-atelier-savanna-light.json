@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#ecf4ee",
+    "button_background_active":     "#78877d",
+    "button_background_hover":      "#87928a",
+    "icons":                        "#526057",
+    "icons_attention":              "#478c90",
+    "tab_line":                     "#478c90",
+    "tab_loading":                  "#478c90",
+    "tab_selected":                 "#dfe7e2",
+    "tab_text":                     "#526057",
+    "textcolor":                    "#526057",
+    "toolbar":                      "#dfe7e2",
+    "toolbar_bottom_separator":     "#ecf4ee",
+    "toolbar_field":                "#87928a",
+    "toolbar_field_border":         "#dfe7e2",
+    "toolbar_field_separator":      "#dfe7e2",
+    "toolbar_field_text":           "#526057",
+    "toolbar_text":                 "#526057",
+    "toolbar_top_separator":        "#dfe7e2",
+    "toolbar_vertical_separator":   "#dfe7e2"
+  }
+}

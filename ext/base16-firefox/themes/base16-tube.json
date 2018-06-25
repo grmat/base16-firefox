@@ -1,0 +1,24 @@
+{
+  "info": "base16-London Tube by Jan T. Sott",
+  "colors": {
+    "accentcolor":                  "#231f20",
+    "button_background_active":     "#737171",
+    "button_background_hover":      "#5a5758",
+    "icons":                        "#d9d8d8",
+    "icons_attention":              "#009ddc",
+    "tab_line":                     "#009ddc",
+    "tab_loading":                  "#009ddc",
+    "tab_selected":                 "#1c3f95",
+    "tab_text":                     "#d9d8d8",
+    "textcolor":                    "#d9d8d8",
+    "toolbar":                      "#1c3f95",
+    "toolbar_bottom_separator":     "#231f20",
+    "toolbar_field":                "#5a5758",
+    "toolbar_field_border":         "#1c3f95",
+    "toolbar_field_separator":      "#1c3f95",
+    "toolbar_field_text":           "#d9d8d8",
+    "toolbar_text":                 "#d9d8d8",
+    "toolbar_top_separator":        "#1c3f95",
+    "toolbar_vertical_separator":   "#1c3f95"
+  }
+}

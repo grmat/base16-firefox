@@ -1,0 +1,24 @@
+{
+  "info": "base16-Paraiso by Jan T. Sott",
+  "colors": {
+    "accentcolor":                  "#2f1e2e",
+    "button_background_active":     "#776e71",
+    "button_background_hover":      "#4f424c",
+    "icons":                        "#a39e9b",
+    "icons_attention":              "#06b6ef",
+    "tab_line":                     "#06b6ef",
+    "tab_loading":                  "#06b6ef",
+    "tab_selected":                 "#41323f",
+    "tab_text":                     "#a39e9b",
+    "textcolor":                    "#a39e9b",
+    "toolbar":                      "#41323f",
+    "toolbar_bottom_separator":     "#2f1e2e",
+    "toolbar_field":                "#4f424c",
+    "toolbar_field_border":         "#41323f",
+    "toolbar_field_separator":      "#41323f",
+    "toolbar_field_text":           "#a39e9b",
+    "toolbar_text":                 "#a39e9b",
+    "toolbar_top_separator":        "#41323f",
+    "toolbar_vertical_separator":   "#41323f"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "info": "base16-Outrun Dark by Hugo Delahousse (http://github.com/hugodelahousse/)",
+  "colors": {
+    "accentcolor":                  "#00002A",
+    "button_background_active":     "#50507A",
+    "button_background_hover":      "#30305A",
+    "icons":                        "#D0D0FA",
+    "icons_attention":              "#66B0FF",
+    "tab_line":                     "#66B0FF",
+    "tab_loading":                  "#66B0FF",
+    "tab_selected":                 "#20204A",
+    "tab_text":                     "#D0D0FA",
+    "textcolor":                    "#D0D0FA",
+    "toolbar":                      "#20204A",
+    "toolbar_bottom_separator":     "#00002A",
+    "toolbar_field":                "#30305A",
+    "toolbar_field_border":         "#20204A",
+    "toolbar_field_separator":      "#20204A",
+    "toolbar_field_text":           "#D0D0FA",
+    "toolbar_text":                 "#D0D0FA",
+    "toolbar_top_separator":        "#20204A",
+    "toolbar_vertical_separator":   "#20204A"
+  }
+}

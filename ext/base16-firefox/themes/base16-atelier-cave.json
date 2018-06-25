@@ -1,0 +1,24 @@
+{
+  "info": "base16-Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "accentcolor":                  "#19171c",
+    "button_background_active":     "#655f6d",
+    "button_background_hover":      "#585260",
+    "icons":                        "#8b8792",
+    "icons_attention":              "#576ddb",
+    "tab_line":                     "#576ddb",
+    "tab_loading":                  "#576ddb",
+    "tab_selected":                 "#26232a",
+    "tab_text":                     "#8b8792",
+    "textcolor":                    "#8b8792",
+    "toolbar":                      "#26232a",
+    "toolbar_bottom_separator":     "#19171c",
+    "toolbar_field":                "#585260",
+    "toolbar_field_border":         "#26232a",
+    "toolbar_field_separator":      "#26232a",
+    "toolbar_field_text":           "#8b8792",
+    "toolbar_text":                 "#8b8792",
+    "toolbar_top_separator":        "#26232a",
+    "toolbar_vertical_separator":   "#26232a"
+  }
+}

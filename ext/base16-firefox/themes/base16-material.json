@@ -1,0 +1,24 @@
+{
+  "info": "base16-Material by Nate Peterson",
+  "colors": {
+    "accentcolor":                  "#263238",
+    "button_background_active":     "#546E7A",
+    "button_background_hover":      "#314549",
+    "icons":                        "#EEFFFF",
+    "icons_attention":              "#82AAFF",
+    "tab_line":                     "#82AAFF",
+    "tab_loading":                  "#82AAFF",
+    "tab_selected":                 "#2E3C43",
+    "tab_text":                     "#EEFFFF",
+    "textcolor":                    "#EEFFFF",
+    "toolbar":                      "#2E3C43",
+    "toolbar_bottom_separator":     "#263238",
+    "toolbar_field":                "#314549",
+    "toolbar_field_border":         "#2E3C43",
+    "toolbar_field_separator":      "#2E3C43",
+    "toolbar_field_text":           "#EEFFFF",
+    "toolbar_text":                 "#EEFFFF",
+    "toolbar_top_separator":        "#2E3C43",
+    "toolbar_vertical_separator":   "#2E3C43"
+  }
+}

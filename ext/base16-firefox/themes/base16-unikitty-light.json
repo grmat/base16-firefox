@@ -1,0 +1,24 @@
+{
+  "info": "base16-Unikitty Light by Josh W Lewis (@joshwlewis)",
+  "colors": {
+    "accentcolor":                  "#ffffff",
+    "button_background_active":     "#a7a5a8",
+    "button_background_hover":      "#c4c3c5",
+    "icons":                        "#6c696e",
+    "icons_attention":              "#775dff",
+    "tab_line":                     "#775dff",
+    "tab_loading":                  "#775dff",
+    "tab_selected":                 "#e1e1e2",
+    "tab_text":                     "#6c696e",
+    "textcolor":                    "#6c696e",
+    "toolbar":                      "#e1e1e2",
+    "toolbar_bottom_separator":     "#ffffff",
+    "toolbar_field":                "#c4c3c5",
+    "toolbar_field_border":         "#e1e1e2",
+    "toolbar_field_separator":      "#e1e1e2",
+    "toolbar_field_text":           "#6c696e",
+    "toolbar_text":                 "#6c696e",
+    "toolbar_top_separator":        "#e1e1e2",
+    "toolbar_vertical_separator":   "#e1e1e2"
+  }
+}

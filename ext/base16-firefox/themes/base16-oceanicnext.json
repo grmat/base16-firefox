@@ -1,0 +1,24 @@
+{
+  "info": "base16-OceanicNext by https://github.com/voronianski/oceanic-next-color-scheme",
+  "colors": {
+    "accentcolor":                  "#1B2B34",
+    "button_background_active":     "#65737E",
+    "button_background_hover":      "#4F5B66",
+    "icons":                        "#C0C5CE",
+    "icons_attention":              "#6699CC",
+    "tab_line":                     "#6699CC",
+    "tab_loading":                  "#6699CC",
+    "tab_selected":                 "#343D46",
+    "tab_text":                     "#C0C5CE",
+    "textcolor":                    "#C0C5CE",
+    "toolbar":                      "#343D46",
+    "toolbar_bottom_separator":     "#1B2B34",
+    "toolbar_field":                "#4F5B66",
+    "toolbar_field_border":         "#343D46",
+    "toolbar_field_separator":      "#343D46",
+    "toolbar_field_text":           "#C0C5CE",
+    "toolbar_text":                 "#C0C5CE",
+    "toolbar_top_separator":        "#343D46",
+    "toolbar_vertical_separator":   "#343D46"
+  }
+}

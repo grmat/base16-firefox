@@ -1,0 +1,24 @@
+{
+  "info": "base16-Summerfruit Light by Christopher Corley (http://christop.club/)",
+  "colors": {
+    "accentcolor":                  "#FFFFFF",
+    "button_background_active":     "#B0B0B0",
+    "button_background_hover":      "#D0D0D0",
+    "icons":                        "#101010",
+    "icons_attention":              "#3777E6",
+    "tab_line":                     "#3777E6",
+    "tab_loading":                  "#3777E6",
+    "tab_selected":                 "#E0E0E0",
+    "tab_text":                     "#101010",
+    "textcolor":                    "#101010",
+    "toolbar":                      "#E0E0E0",
+    "toolbar_bottom_separator":     "#FFFFFF",
+    "toolbar_field":                "#D0D0D0",
+    "toolbar_field_border":         "#E0E0E0",
+    "toolbar_field_separator":      "#E0E0E0",
+    "toolbar_field_text":           "#101010",
+    "toolbar_text":                 "#101010",
+    "toolbar_top_separator":        "#E0E0E0",
+    "toolbar_vertical_separator":   "#E0E0E0"
+  }
+}

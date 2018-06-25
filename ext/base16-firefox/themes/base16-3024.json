@@ -1,0 +1,24 @@
+{
+  "info": "base16-3024 by Jan T. Sott (http://github.com/idleberg)",
+  "colors": {
+    "accentcolor":                  "#090300",
+    "button_background_active":     "#5c5855",
+    "button_background_hover":      "#4a4543",
+    "icons":                        "#a5a2a2",
+    "icons_attention":              "#01a0e4",
+    "tab_line":                     "#01a0e4",
+    "tab_loading":                  "#01a0e4",
+    "tab_selected":                 "#3a3432",
+    "tab_text":                     "#a5a2a2",
+    "textcolor":                    "#a5a2a2",
+    "toolbar":                      "#3a3432",
+    "toolbar_bottom_separator":     "#090300",
+    "toolbar_field":                "#4a4543",
+    "toolbar_field_border":         "#3a3432",
+    "toolbar_field_separator":      "#3a3432",
+    "toolbar_field_text":           "#a5a2a2",
+    "toolbar_text":                 "#a5a2a2",
+    "toolbar_top_separator":        "#3a3432",
+    "toolbar_vertical_separator":   "#3a3432"
+  }
+}

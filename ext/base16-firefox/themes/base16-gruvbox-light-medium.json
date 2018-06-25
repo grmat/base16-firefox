@@ -1,0 +1,24 @@
+{
+  "info": "base16-Gruvbox light, medium by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+  "colors": {
+    "accentcolor":                  "#fbf1c7",
+    "button_background_active":     "#bdae93",
+    "button_background_hover":      "#d5c4a1",
+    "icons":                        "#504945",
+    "icons_attention":              "#076678",
+    "tab_line":                     "#076678",
+    "tab_loading":                  "#076678",
+    "tab_selected":                 "#ebdbb2",
+    "tab_text":                     "#504945",
+    "textcolor":                    "#504945",
+    "toolbar":                      "#ebdbb2",
+    "toolbar_bottom_separator":     "#fbf1c7",
+    "toolbar_field":                "#d5c4a1",
+    "toolbar_field_border":         "#ebdbb2",
+    "toolbar_field_separator":      "#ebdbb2",
+    "toolbar_field_text":           "#504945",
+    "toolbar_text":                 "#504945",
+    "toolbar_top_separator":        "#ebdbb2",
+    "toolbar_vertical_separator":   "#ebdbb2"
+  }
+}

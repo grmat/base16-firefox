@@ -1,0 +1,13 @@
+{
+  "description": "base16 themes for the Firefox UI.",
+  "manifest_version": 2,
+  "name": "base16",
+  "version": "1.0",
+  "permissions": ["theme", "storage"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "options_ui": {
+    "page": "options.html"
+  }
+}
