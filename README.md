@@ -22,7 +22,11 @@ or
 1. Install from [AMO][8]
 1. Navigate to `about:addons`, open the preferences for `base16` and select your theme.
 
-[1]: https://chriskempson.github.io/base16/
+## Known issues
+
+While the WebExtension stores the theme in its local storage, and it should automatically reload the theme on Firefox restart, it will not be represented in the preferences page. The selector will initially always show the first entry.
+
+[1]: http://chriskempson.com/projects/base16/
 [2]: https://www.mozilla.org/firefox/
 [3]: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/theme
 [4]: https://github.com/Defman21/base16-materia
