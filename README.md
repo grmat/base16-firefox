@@ -11,7 +11,9 @@ Example screenshot with [Materia][4] by [Defman21][5]
 1. Populate working directory with `sources.yaml`
 1. Use a [builder][6], update colour schemes and add base16-firefox to the templates build
 1. Use a builder to generate the theme files inside the firefox folder, e.g.
-    pybase16 build -o templates/base16-firefox/ext/
+
+       pybase16 build -o templates/base16-firefox/ext/
+
 1. Build the WebExtension, either manually or with [`web-ext`][7] (`web-ext build -s ext`)
 
 
@@ -33,4 +35,4 @@ While the WebExtension stores the theme in its local storage, and it should auto
 [5]: https://github.com/Defman21
 [6]: https://github.com/chriskempson/base16#builder-repositories
 [7]: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Getting_started_with_web-ext
-[8]: https://addons.mozilla.org/
+[8]: https://addons.mozilla.org/firefox/addon/base16/
