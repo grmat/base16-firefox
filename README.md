@@ -4,7 +4,7 @@
 
 ![screenshot](screenshot.png)
 
-Example screenshot with [Materia][4] by [Defman21][5]
+Example screenshot with [Tomorrow Night][4] by [chriskempson][5]
 
 ## Building
 
@@ -31,8 +31,9 @@ While the WebExtension stores the theme in its local storage, and it should auto
 [1]: http://chriskempson.com/projects/base16/
 [2]: https://www.mozilla.org/firefox/
 [3]: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/theme
-[4]: https://github.com/Defman21/base16-materia
-[5]: https://github.com/Defman21
+[4]: https://github.com/chriskempson/base16-tomorrow-scheme
+[5]: https://github.com/chriskempson
 [6]: https://github.com/chriskempson/base16#builder-repositories
 [7]: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Getting_started_with_web-ext
 [8]: https://addons.mozilla.org/firefox/addon/base16/
+[9]: https://hacks.mozilla.org/2018/07/dark-theme-darkening-better-theming-for-firefox-quantum/
