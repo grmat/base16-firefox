@@ -1,0 +1,33 @@
+{
+  "info": "base16-Snazzy by Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)",
+  "colors": {
+    "frame":                        "#34353e",
+    "button_background_active":     "#43454f",
+    "button_background_hover":      "#34353e",
+    "icons":                        "#e2e4e5",
+    "icons_attention":              "#57c7ff",
+    "tab_line":                     "#57c7ff",
+    "tab_loading":                  "#57c7ff",
+    "tab_selected":                 "#282a36",
+    "tab_text":                     "#e2e4e5",
+    "tab_background_text":          "#e2e4e5",
+    "toolbar":                      "#282a36",
+    "popup":                        "#282a36",
+    "popup_text":                   "#e2e4e5",
+    "popup_border":                 "#282a36",
+    "popup_highlight":              "#43454f",
+    "popup_highlight_text":         "#eff0eb",
+    "tab_background_separator":     "#a5a5a9",
+    "toolbar_bottom_separator":     "#34353e",
+    "toolbar_field":                "#43454f",
+    "toolbar_field_focus":          "#43454f",
+    "toolbar_field_text_focus":     "#eff0eb",
+    "toolbar_field_border":         "#282a36",
+    "toolbar_field_border_focus":   "#57c7ff",
+    "toolbar_field_separator":      "#a5a5a9",
+    "toolbar_field_text":           "#e2e4e5",
+    "bookmark_text":                "#e2e4e5",
+    "toolbar_top_separator":        "#34353e",
+    "toolbar_vertical_separator":   "#34353e"
+  }
+}

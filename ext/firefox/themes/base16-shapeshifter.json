@@ -1,0 +1,33 @@
+{
+  "info": "base16-Shapeshifter by Tyler Benziger (http://tybenz.com)",
+  "colors": {
+    "frame":                        "#e0e0e0",
+    "button_background_active":     "#ababab",
+    "button_background_hover":      "#e0e0e0",
+    "icons":                        "#102015",
+    "icons_attention":              "#3b48e3",
+    "tab_line":                     "#3b48e3",
+    "tab_loading":                  "#3b48e3",
+    "tab_selected":                 "#f9f9f9",
+    "tab_text":                     "#102015",
+    "tab_background_text":          "#102015",
+    "toolbar":                      "#f9f9f9",
+    "popup":                        "#f9f9f9",
+    "popup_text":                   "#102015",
+    "popup_border":                 "#f9f9f9",
+    "popup_highlight":              "#ababab",
+    "popup_highlight_text":         "#040404",
+    "tab_background_separator":     "#343434",
+    "toolbar_bottom_separator":     "#e0e0e0",
+    "toolbar_field":                "#ababab",
+    "toolbar_field_focus":          "#ababab",
+    "toolbar_field_text_focus":     "#040404",
+    "toolbar_field_border":         "#f9f9f9",
+    "toolbar_field_border_focus":   "#3b48e3",
+    "toolbar_field_separator":      "#343434",
+    "toolbar_field_text":           "#102015",
+    "bookmark_text":                "#102015",
+    "toolbar_top_separator":        "#e0e0e0",
+    "toolbar_vertical_separator":   "#e0e0e0"
+  }
+}

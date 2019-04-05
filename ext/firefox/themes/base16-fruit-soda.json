@@ -1,0 +1,33 @@
+{
+  "info": "base16-Fruit Soda by jozip",
+  "colors": {
+    "frame":                        "#e0dee0",
+    "button_background_active":     "#d8d5d5",
+    "button_background_hover":      "#e0dee0",
+    "icons":                        "#515151",
+    "icons_attention":              "#2931df",
+    "tab_line":                     "#2931df",
+    "tab_loading":                  "#2931df",
+    "tab_selected":                 "#f1ecf1",
+    "tab_text":                     "#515151",
+    "tab_background_text":          "#515151",
+    "toolbar":                      "#f1ecf1",
+    "popup":                        "#f1ecf1",
+    "popup_text":                   "#515151",
+    "popup_border":                 "#f1ecf1",
+    "popup_highlight":              "#d8d5d5",
+    "popup_highlight_text":         "#474545",
+    "tab_background_separator":     "#979598",
+    "toolbar_bottom_separator":     "#e0dee0",
+    "toolbar_field":                "#d8d5d5",
+    "toolbar_field_focus":          "#d8d5d5",
+    "toolbar_field_text_focus":     "#474545",
+    "toolbar_field_border":         "#f1ecf1",
+    "toolbar_field_border_focus":   "#2931df",
+    "toolbar_field_separator":      "#979598",
+    "toolbar_field_text":           "#515151",
+    "bookmark_text":                "#515151",
+    "toolbar_top_separator":        "#e0dee0",
+    "toolbar_vertical_separator":   "#e0dee0"
+  }
+}

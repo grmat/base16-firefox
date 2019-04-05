@@ -1,0 +1,33 @@
+{
+  "info": "base16-Solarized Dark by Ethan Schoonover (modified by aramisgithub)",
+  "colors": {
+    "frame":                        "#073642",
+    "button_background_active":     "#586e75",
+    "button_background_hover":      "#073642",
+    "icons":                        "#93a1a1",
+    "icons_attention":              "#268bd2",
+    "tab_line":                     "#268bd2",
+    "tab_loading":                  "#268bd2",
+    "tab_selected":                 "#002b36",
+    "tab_text":                     "#93a1a1",
+    "tab_background_text":          "#93a1a1",
+    "toolbar":                      "#002b36",
+    "popup":                        "#002b36",
+    "popup_text":                   "#93a1a1",
+    "popup_border":                 "#002b36",
+    "popup_highlight":              "#586e75",
+    "popup_highlight_text":         "#eee8d5",
+    "tab_background_separator":     "#839496",
+    "toolbar_bottom_separator":     "#073642",
+    "toolbar_field":                "#586e75",
+    "toolbar_field_focus":          "#586e75",
+    "toolbar_field_text_focus":     "#eee8d5",
+    "toolbar_field_border":         "#002b36",
+    "toolbar_field_border_focus":   "#268bd2",
+    "toolbar_field_separator":      "#839496",
+    "toolbar_field_text":           "#93a1a1",
+    "bookmark_text":                "#93a1a1",
+    "toolbar_top_separator":        "#073642",
+    "toolbar_vertical_separator":   "#073642"
+  }
+}

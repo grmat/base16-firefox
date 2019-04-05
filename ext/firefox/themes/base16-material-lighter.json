@@ -1,0 +1,33 @@
+{
+  "info": "base16-Material Lighter by Nate Peterson",
+  "colors": {
+    "frame":                        "#E7EAEC",
+    "button_background_active":     "#CCEAE7",
+    "button_background_hover":      "#E7EAEC",
+    "icons":                        "#80CBC4",
+    "icons_attention":              "#6182B8",
+    "tab_line":                     "#6182B8",
+    "tab_loading":                  "#6182B8",
+    "tab_selected":                 "#FAFAFA",
+    "tab_text":                     "#80CBC4",
+    "tab_background_text":          "#80CBC4",
+    "toolbar":                      "#FAFAFA",
+    "popup":                        "#FAFAFA",
+    "popup_text":                   "#80CBC4",
+    "popup_border":                 "#FAFAFA",
+    "popup_highlight":              "#CCEAE7",
+    "popup_highlight_text":         "#80CBC4",
+    "tab_background_separator":     "#8796B0",
+    "toolbar_bottom_separator":     "#E7EAEC",
+    "toolbar_field":                "#CCEAE7",
+    "toolbar_field_focus":          "#CCEAE7",
+    "toolbar_field_text_focus":     "#80CBC4",
+    "toolbar_field_border":         "#FAFAFA",
+    "toolbar_field_border_focus":   "#6182B8",
+    "toolbar_field_separator":      "#8796B0",
+    "toolbar_field_text":           "#80CBC4",
+    "bookmark_text":                "#80CBC4",
+    "toolbar_top_separator":        "#E7EAEC",
+    "toolbar_vertical_separator":   "#E7EAEC"
+  }
+}

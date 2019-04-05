@@ -1,0 +1,33 @@
+{
+  "info": "base16-Black Metal (Marduk) by metalelf0 (https://github.com/metalelf0)",
+  "colors": {
+    "frame":                        "#121212",
+    "button_background_active":     "#222222",
+    "button_background_hover":      "#121212",
+    "icons":                        "#c1c1c1",
+    "icons_attention":              "#888888",
+    "tab_line":                     "#888888",
+    "tab_loading":                  "#888888",
+    "tab_selected":                 "#000000",
+    "tab_text":                     "#c1c1c1",
+    "tab_background_text":          "#c1c1c1",
+    "toolbar":                      "#000000",
+    "popup":                        "#000000",
+    "popup_text":                   "#c1c1c1",
+    "popup_border":                 "#000000",
+    "popup_highlight":              "#222222",
+    "popup_highlight_text":         "#999999",
+    "tab_background_separator":     "#999999",
+    "toolbar_bottom_separator":     "#121212",
+    "toolbar_field":                "#222222",
+    "toolbar_field_focus":          "#222222",
+    "toolbar_field_text_focus":     "#999999",
+    "toolbar_field_border":         "#000000",
+    "toolbar_field_border_focus":   "#888888",
+    "toolbar_field_separator":      "#999999",
+    "toolbar_field_text":           "#c1c1c1",
+    "bookmark_text":                "#c1c1c1",
+    "toolbar_top_separator":        "#121212",
+    "toolbar_vertical_separator":   "#121212"
+  }
+}

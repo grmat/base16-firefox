@@ -1,0 +1,33 @@
+{
+  "info": "base16-Grayscale Light by Alexandre Gavioli (https://github.com/Alexx2/)",
+  "colors": {
+    "frame":                        "#e3e3e3",
+    "button_background_active":     "#b9b9b9",
+    "button_background_hover":      "#e3e3e3",
+    "icons":                        "#464646",
+    "icons_attention":              "#686868",
+    "tab_line":                     "#686868",
+    "tab_loading":                  "#686868",
+    "tab_selected":                 "#f7f7f7",
+    "tab_text":                     "#464646",
+    "tab_background_text":          "#464646",
+    "toolbar":                      "#f7f7f7",
+    "popup":                        "#f7f7f7",
+    "popup_text":                   "#464646",
+    "popup_border":                 "#f7f7f7",
+    "popup_highlight":              "#b9b9b9",
+    "popup_highlight_text":         "#252525",
+    "tab_background_separator":     "#525252",
+    "toolbar_bottom_separator":     "#e3e3e3",
+    "toolbar_field":                "#b9b9b9",
+    "toolbar_field_focus":          "#b9b9b9",
+    "toolbar_field_text_focus":     "#252525",
+    "toolbar_field_border":         "#f7f7f7",
+    "toolbar_field_border_focus":   "#686868",
+    "toolbar_field_separator":      "#525252",
+    "toolbar_field_text":           "#464646",
+    "bookmark_text":                "#464646",
+    "toolbar_top_separator":        "#e3e3e3",
+    "toolbar_vertical_separator":   "#e3e3e3"
+  }
+}

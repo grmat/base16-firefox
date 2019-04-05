@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atlas by Alex Lende (https://ajlende.com)",
+  "colors": {
+    "frame":                        "#00384d",
+    "button_background_active":     "#517F8D",
+    "button_background_hover":      "#00384d",
+    "icons":                        "#a1a19a",
+    "icons_attention":              "#5dd7b9",
+    "tab_line":                     "#5dd7b9",
+    "tab_loading":                  "#5dd7b9",
+    "tab_selected":                 "#002635",
+    "tab_text":                     "#a1a19a",
+    "tab_background_text":          "#a1a19a",
+    "toolbar":                      "#002635",
+    "popup":                        "#002635",
+    "popup_text":                   "#a1a19a",
+    "popup_border":                 "#002635",
+    "popup_highlight":              "#517F8D",
+    "popup_highlight_text":         "#e6e6dc",
+    "tab_background_separator":     "#869696",
+    "toolbar_bottom_separator":     "#00384d",
+    "toolbar_field":                "#517F8D",
+    "toolbar_field_focus":          "#517F8D",
+    "toolbar_field_text_focus":     "#e6e6dc",
+    "toolbar_field_border":         "#002635",
+    "toolbar_field_border_focus":   "#5dd7b9",
+    "toolbar_field_separator":      "#869696",
+    "toolbar_field_text":           "#a1a19a",
+    "bookmark_text":                "#a1a19a",
+    "toolbar_top_separator":        "#00384d",
+    "toolbar_vertical_separator":   "#00384d"
+  }
+}

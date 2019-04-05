@@ -1,0 +1,33 @@
+{
+  "info": "base16-Zenburn by elnawe",
+  "colors": {
+    "frame":                        "#404040",
+    "button_background_active":     "#606060",
+    "button_background_hover":      "#404040",
+    "icons":                        "#dcdccc",
+    "icons_attention":              "#7cb8bb",
+    "tab_line":                     "#7cb8bb",
+    "tab_loading":                  "#7cb8bb",
+    "tab_selected":                 "#383838",
+    "tab_text":                     "#dcdccc",
+    "tab_background_text":          "#dcdccc",
+    "toolbar":                      "#383838",
+    "popup":                        "#383838",
+    "popup_text":                   "#dcdccc",
+    "popup_border":                 "#383838",
+    "popup_highlight":              "#606060",
+    "popup_highlight_text":         "#c0c0c0",
+    "tab_background_separator":     "#808080",
+    "toolbar_bottom_separator":     "#404040",
+    "toolbar_field":                "#606060",
+    "toolbar_field_focus":          "#606060",
+    "toolbar_field_text_focus":     "#c0c0c0",
+    "toolbar_field_border":         "#383838",
+    "toolbar_field_border_focus":   "#7cb8bb",
+    "toolbar_field_separator":      "#808080",
+    "toolbar_field_text":           "#dcdccc",
+    "bookmark_text":                "#dcdccc",
+    "toolbar_top_separator":        "#404040",
+    "toolbar_vertical_separator":   "#404040"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "info": "base16-Gruvbox dark, medium by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)",
+  "colors": {
+    "frame":                        "#3c3836",
+    "button_background_active":     "#504945",
+    "button_background_hover":      "#3c3836",
+    "icons":                        "#d5c4a1",
+    "icons_attention":              "#83a598",
+    "tab_line":                     "#83a598",
+    "tab_loading":                  "#83a598",
+    "tab_selected":                 "#282828",
+    "tab_text":                     "#d5c4a1",
+    "tab_background_text":          "#d5c4a1",
+    "toolbar":                      "#282828",
+    "popup":                        "#282828",
+    "popup_text":                   "#d5c4a1",
+    "popup_border":                 "#282828",
+    "popup_highlight":              "#504945",
+    "popup_highlight_text":         "#ebdbb2",
+    "tab_background_separator":     "#bdae93",
+    "toolbar_bottom_separator":     "#3c3836",
+    "toolbar_field":                "#504945",
+    "toolbar_field_focus":          "#504945",
+    "toolbar_field_text_focus":     "#ebdbb2",
+    "toolbar_field_border":         "#282828",
+    "toolbar_field_border_focus":   "#83a598",
+    "toolbar_field_separator":      "#bdae93",
+    "toolbar_field_text":           "#d5c4a1",
+    "bookmark_text":                "#d5c4a1",
+    "toolbar_top_separator":        "#3c3836",
+    "toolbar_vertical_separator":   "#3c3836"
+  }
+}

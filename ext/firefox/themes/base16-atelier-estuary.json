@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Estuary by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#302f27",
+    "button_background_active":     "#5f5e4e",
+    "button_background_hover":      "#302f27",
+    "icons":                        "#929181",
+    "icons_attention":              "#36a166",
+    "tab_line":                     "#36a166",
+    "tab_loading":                  "#36a166",
+    "tab_selected":                 "#22221b",
+    "tab_text":                     "#929181",
+    "tab_background_text":          "#929181",
+    "toolbar":                      "#22221b",
+    "popup":                        "#22221b",
+    "popup_text":                   "#929181",
+    "popup_border":                 "#22221b",
+    "popup_highlight":              "#5f5e4e",
+    "popup_highlight_text":         "#e7e6df",
+    "tab_background_separator":     "#878573",
+    "toolbar_bottom_separator":     "#302f27",
+    "toolbar_field":                "#5f5e4e",
+    "toolbar_field_focus":          "#5f5e4e",
+    "toolbar_field_text_focus":     "#e7e6df",
+    "toolbar_field_border":         "#22221b",
+    "toolbar_field_border_focus":   "#36a166",
+    "toolbar_field_separator":      "#878573",
+    "toolbar_field_text":           "#929181",
+    "bookmark_text":                "#929181",
+    "toolbar_top_separator":        "#302f27",
+    "toolbar_vertical_separator":   "#302f27"
+  }
+}

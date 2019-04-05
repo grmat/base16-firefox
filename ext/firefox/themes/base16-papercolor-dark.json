@@ -1,0 +1,33 @@
+{
+  "info": "base16-PaperColor Dark by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)",
+  "colors": {
+    "frame":                        "#af005f",
+    "button_background_active":     "#5faf00",
+    "button_background_hover":      "#af005f",
+    "icons":                        "#808080",
+    "icons_attention":              "#ff5faf",
+    "tab_line":                     "#ff5faf",
+    "tab_loading":                  "#ff5faf",
+    "tab_selected":                 "#1c1c1c",
+    "tab_text":                     "#808080",
+    "tab_background_text":          "#808080",
+    "toolbar":                      "#1c1c1c",
+    "popup":                        "#1c1c1c",
+    "popup_text":                   "#808080",
+    "popup_border":                 "#1c1c1c",
+    "popup_highlight":              "#5faf00",
+    "popup_highlight_text":         "#d7875f",
+    "tab_background_separator":     "#5fafd7",
+    "toolbar_bottom_separator":     "#af005f",
+    "toolbar_field":                "#5faf00",
+    "toolbar_field_focus":          "#5faf00",
+    "toolbar_field_text_focus":     "#d7875f",
+    "toolbar_field_border":         "#1c1c1c",
+    "toolbar_field_border_focus":   "#ff5faf",
+    "toolbar_field_separator":      "#5fafd7",
+    "toolbar_field_text":           "#808080",
+    "bookmark_text":                "#808080",
+    "toolbar_top_separator":        "#af005f",
+    "toolbar_vertical_separator":   "#af005f"
+  }
+}

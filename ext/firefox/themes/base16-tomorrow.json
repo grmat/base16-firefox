@@ -1,0 +1,33 @@
+{
+  "info": "base16-Tomorrow by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "frame":                        "#e0e0e0",
+    "button_background_active":     "#d6d6d6",
+    "button_background_hover":      "#e0e0e0",
+    "icons":                        "#4d4d4c",
+    "icons_attention":              "#4271ae",
+    "tab_line":                     "#4271ae",
+    "tab_loading":                  "#4271ae",
+    "tab_selected":                 "#ffffff",
+    "tab_text":                     "#4d4d4c",
+    "tab_background_text":          "#4d4d4c",
+    "toolbar":                      "#ffffff",
+    "popup":                        "#ffffff",
+    "popup_text":                   "#4d4d4c",
+    "popup_border":                 "#ffffff",
+    "popup_highlight":              "#d6d6d6",
+    "popup_highlight_text":         "#282a2e",
+    "tab_background_separator":     "#969896",
+    "toolbar_bottom_separator":     "#e0e0e0",
+    "toolbar_field":                "#d6d6d6",
+    "toolbar_field_focus":          "#d6d6d6",
+    "toolbar_field_text_focus":     "#282a2e",
+    "toolbar_field_border":         "#ffffff",
+    "toolbar_field_border_focus":   "#4271ae",
+    "toolbar_field_separator":      "#969896",
+    "toolbar_field_text":           "#4d4d4c",
+    "bookmark_text":                "#4d4d4c",
+    "toolbar_top_separator":        "#e0e0e0",
+    "toolbar_vertical_separator":   "#e0e0e0"
+  }
+}

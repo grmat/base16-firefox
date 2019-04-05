@@ -1,0 +1,33 @@
+{
+  "info": "base16-Unikitty Dark by Josh W Lewis (@joshwlewis)",
+  "colors": {
+    "frame":                        "#4a464d",
+    "button_background_active":     "#666369",
+    "button_background_hover":      "#4a464d",
+    "icons":                        "#bcbabe",
+    "icons_attention":              "#796af5",
+    "tab_line":                     "#796af5",
+    "tab_loading":                  "#796af5",
+    "tab_selected":                 "#2e2a31",
+    "tab_text":                     "#bcbabe",
+    "tab_background_text":          "#bcbabe",
+    "toolbar":                      "#2e2a31",
+    "popup":                        "#2e2a31",
+    "popup_text":                   "#bcbabe",
+    "popup_border":                 "#2e2a31",
+    "popup_highlight":              "#666369",
+    "popup_highlight_text":         "#d8d7da",
+    "tab_background_separator":     "#9f9da2",
+    "toolbar_bottom_separator":     "#4a464d",
+    "toolbar_field":                "#666369",
+    "toolbar_field_focus":          "#666369",
+    "toolbar_field_text_focus":     "#d8d7da",
+    "toolbar_field_border":         "#2e2a31",
+    "toolbar_field_border_focus":   "#796af5",
+    "toolbar_field_separator":      "#9f9da2",
+    "toolbar_field_text":           "#bcbabe",
+    "bookmark_text":                "#bcbabe",
+    "toolbar_top_separator":        "#4a464d",
+    "toolbar_vertical_separator":   "#4a464d"
+  }
+}

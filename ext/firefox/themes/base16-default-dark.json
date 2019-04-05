@@ -1,0 +1,33 @@
+{
+  "info": "base16-Default Dark by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "frame":                        "#282828",
+    "button_background_active":     "#383838",
+    "button_background_hover":      "#282828",
+    "icons":                        "#d8d8d8",
+    "icons_attention":              "#7cafc2",
+    "tab_line":                     "#7cafc2",
+    "tab_loading":                  "#7cafc2",
+    "tab_selected":                 "#181818",
+    "tab_text":                     "#d8d8d8",
+    "tab_background_text":          "#d8d8d8",
+    "toolbar":                      "#181818",
+    "popup":                        "#181818",
+    "popup_text":                   "#d8d8d8",
+    "popup_border":                 "#181818",
+    "popup_highlight":              "#383838",
+    "popup_highlight_text":         "#e8e8e8",
+    "tab_background_separator":     "#b8b8b8",
+    "toolbar_bottom_separator":     "#282828",
+    "toolbar_field":                "#383838",
+    "toolbar_field_focus":          "#383838",
+    "toolbar_field_text_focus":     "#e8e8e8",
+    "toolbar_field_border":         "#181818",
+    "toolbar_field_border_focus":   "#7cafc2",
+    "toolbar_field_separator":      "#b8b8b8",
+    "toolbar_field_text":           "#d8d8d8",
+    "bookmark_text":                "#d8d8d8",
+    "toolbar_top_separator":        "#282828",
+    "toolbar_vertical_separator":   "#282828"
+  }
+}

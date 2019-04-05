@@ -1,0 +1,33 @@
+{
+  "info": "base16-iA Light by iA Inc. (modified by aramisgithub)",
+  "colors": {
+    "frame":                        "#dedede",
+    "button_background_active":     "#bde5f2",
+    "button_background_hover":      "#dedede",
+    "icons":                        "#181818",
+    "icons_attention":              "#48bac2",
+    "tab_line":                     "#48bac2",
+    "tab_loading":                  "#48bac2",
+    "tab_selected":                 "#f6f6f6",
+    "tab_text":                     "#181818",
+    "tab_background_text":          "#181818",
+    "toolbar":                      "#f6f6f6",
+    "popup":                        "#f6f6f6",
+    "popup_text":                   "#181818",
+    "popup_border":                 "#f6f6f6",
+    "popup_highlight":              "#bde5f2",
+    "popup_highlight_text":         "#e8e8e8",
+    "tab_background_separator":     "#767676",
+    "toolbar_bottom_separator":     "#dedede",
+    "toolbar_field":                "#bde5f2",
+    "toolbar_field_focus":          "#bde5f2",
+    "toolbar_field_text_focus":     "#e8e8e8",
+    "toolbar_field_border":         "#f6f6f6",
+    "toolbar_field_border_focus":   "#48bac2",
+    "toolbar_field_separator":      "#767676",
+    "toolbar_field_text":           "#181818",
+    "bookmark_text":                "#181818",
+    "toolbar_top_separator":        "#dedede",
+    "toolbar_vertical_separator":   "#dedede"
+  }
+}

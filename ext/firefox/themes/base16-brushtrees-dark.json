@@ -1,0 +1,33 @@
+{
+  "info": "base16-Brush Trees Dark by Abraham White &lt;abelincoln.white@gmail.com&gt;",
+  "colors": {
+    "frame":                        "#5A6D7A",
+    "button_background_active":     "#6D828E",
+    "button_background_hover":      "#5A6D7A",
+    "icons":                        "#B0C5C8",
+    "icons_attention":              "#868cb3",
+    "tab_line":                     "#868cb3",
+    "tab_loading":                  "#868cb3",
+    "tab_selected":                 "#485867",
+    "tab_text":                     "#B0C5C8",
+    "tab_background_text":          "#B0C5C8",
+    "toolbar":                      "#485867",
+    "popup":                        "#485867",
+    "popup_text":                   "#B0C5C8",
+    "popup_border":                 "#485867",
+    "popup_highlight":              "#6D828E",
+    "popup_highlight_text":         "#C9DBDC",
+    "tab_background_separator":     "#98AFB5",
+    "toolbar_bottom_separator":     "#5A6D7A",
+    "toolbar_field":                "#6D828E",
+    "toolbar_field_focus":          "#6D828E",
+    "toolbar_field_text_focus":     "#C9DBDC",
+    "toolbar_field_border":         "#485867",
+    "toolbar_field_border_focus":   "#868cb3",
+    "toolbar_field_separator":      "#98AFB5",
+    "toolbar_field_text":           "#B0C5C8",
+    "bookmark_text":                "#B0C5C8",
+    "toolbar_top_separator":        "#5A6D7A",
+    "toolbar_vertical_separator":   "#5A6D7A"
+  }
+}

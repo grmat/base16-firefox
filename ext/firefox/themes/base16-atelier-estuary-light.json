@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Estuary Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#e7e6df",
+    "button_background_active":     "#929181",
+    "button_background_hover":      "#e7e6df",
+    "icons":                        "#5f5e4e",
+    "icons_attention":              "#36a166",
+    "tab_line":                     "#36a166",
+    "tab_loading":                  "#36a166",
+    "tab_selected":                 "#f4f3ec",
+    "tab_text":                     "#5f5e4e",
+    "tab_background_text":          "#5f5e4e",
+    "toolbar":                      "#f4f3ec",
+    "popup":                        "#f4f3ec",
+    "popup_text":                   "#5f5e4e",
+    "popup_border":                 "#f4f3ec",
+    "popup_highlight":              "#929181",
+    "popup_highlight_text":         "#302f27",
+    "tab_background_separator":     "#6c6b5a",
+    "toolbar_bottom_separator":     "#e7e6df",
+    "toolbar_field":                "#929181",
+    "toolbar_field_focus":          "#929181",
+    "toolbar_field_text_focus":     "#302f27",
+    "toolbar_field_border":         "#f4f3ec",
+    "toolbar_field_border_focus":   "#36a166",
+    "toolbar_field_separator":      "#6c6b5a",
+    "toolbar_field_text":           "#5f5e4e",
+    "bookmark_text":                "#5f5e4e",
+    "toolbar_top_separator":        "#e7e6df",
+    "toolbar_vertical_separator":   "#e7e6df"
+  }
+}

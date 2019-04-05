@@ -1,0 +1,33 @@
+{
+  "info": "base16-Material Vivid by joshyrobot",
+  "colors": {
+    "frame":                        "#27292c",
+    "button_background_active":     "#323639",
+    "button_background_hover":      "#27292c",
+    "icons":                        "#80868b",
+    "icons_attention":              "#2196f3",
+    "tab_line":                     "#2196f3",
+    "tab_loading":                  "#2196f3",
+    "tab_selected":                 "#202124",
+    "tab_text":                     "#80868b",
+    "tab_background_text":          "#80868b",
+    "toolbar":                      "#202124",
+    "popup":                        "#202124",
+    "popup_text":                   "#80868b",
+    "popup_border":                 "#202124",
+    "popup_highlight":              "#323639",
+    "popup_highlight_text":         "#9e9e9e",
+    "tab_background_separator":     "#676c71",
+    "toolbar_bottom_separator":     "#27292c",
+    "toolbar_field":                "#323639",
+    "toolbar_field_focus":          "#323639",
+    "toolbar_field_text_focus":     "#9e9e9e",
+    "toolbar_field_border":         "#202124",
+    "toolbar_field_border_focus":   "#2196f3",
+    "toolbar_field_separator":      "#676c71",
+    "toolbar_field_text":           "#80868b",
+    "bookmark_text":                "#80868b",
+    "toolbar_top_separator":        "#27292c",
+    "toolbar_vertical_separator":   "#27292c"
+  }
+}

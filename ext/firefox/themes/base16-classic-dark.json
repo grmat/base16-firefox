@@ -1,0 +1,33 @@
+{
+  "info": "base16-Classic Dark by Jason Heeris (http://heeris.id.au)",
+  "colors": {
+    "frame":                        "#202020",
+    "button_background_active":     "#303030",
+    "button_background_hover":      "#202020",
+    "icons":                        "#D0D0D0",
+    "icons_attention":              "#6A9FB5",
+    "tab_line":                     "#6A9FB5",
+    "tab_loading":                  "#6A9FB5",
+    "tab_selected":                 "#151515",
+    "tab_text":                     "#D0D0D0",
+    "tab_background_text":          "#D0D0D0",
+    "toolbar":                      "#151515",
+    "popup":                        "#151515",
+    "popup_text":                   "#D0D0D0",
+    "popup_border":                 "#151515",
+    "popup_highlight":              "#303030",
+    "popup_highlight_text":         "#E0E0E0",
+    "tab_background_separator":     "#B0B0B0",
+    "toolbar_bottom_separator":     "#202020",
+    "toolbar_field":                "#303030",
+    "toolbar_field_focus":          "#303030",
+    "toolbar_field_text_focus":     "#E0E0E0",
+    "toolbar_field_border":         "#151515",
+    "toolbar_field_border_focus":   "#6A9FB5",
+    "toolbar_field_separator":      "#B0B0B0",
+    "toolbar_field_text":           "#D0D0D0",
+    "bookmark_text":                "#D0D0D0",
+    "toolbar_top_separator":        "#202020",
+    "toolbar_vertical_separator":   "#202020"
+  }
+}

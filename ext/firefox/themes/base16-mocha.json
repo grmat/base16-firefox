@@ -1,0 +1,33 @@
+{
+  "info": "base16-Mocha by Chris Kempson (http://chriskempson.com)",
+  "colors": {
+    "frame":                        "#534636",
+    "button_background_active":     "#645240",
+    "button_background_hover":      "#534636",
+    "icons":                        "#d0c8c6",
+    "icons_attention":              "#8ab3b5",
+    "tab_line":                     "#8ab3b5",
+    "tab_loading":                  "#8ab3b5",
+    "tab_selected":                 "#3B3228",
+    "tab_text":                     "#d0c8c6",
+    "tab_background_text":          "#d0c8c6",
+    "toolbar":                      "#3B3228",
+    "popup":                        "#3B3228",
+    "popup_text":                   "#d0c8c6",
+    "popup_border":                 "#3B3228",
+    "popup_highlight":              "#645240",
+    "popup_highlight_text":         "#e9e1dd",
+    "tab_background_separator":     "#b8afad",
+    "toolbar_bottom_separator":     "#534636",
+    "toolbar_field":                "#645240",
+    "toolbar_field_focus":          "#645240",
+    "toolbar_field_text_focus":     "#e9e1dd",
+    "toolbar_field_border":         "#3B3228",
+    "toolbar_field_border_focus":   "#8ab3b5",
+    "toolbar_field_separator":      "#b8afad",
+    "toolbar_field_text":           "#d0c8c6",
+    "bookmark_text":                "#d0c8c6",
+    "toolbar_top_separator":        "#534636",
+    "toolbar_vertical_separator":   "#534636"
+  }
+}

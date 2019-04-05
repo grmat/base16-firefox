@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Dune by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#292824",
+    "button_background_active":     "#6e6b5e",
+    "button_background_hover":      "#292824",
+    "icons":                        "#a6a28c",
+    "icons_attention":              "#6684e1",
+    "tab_line":                     "#6684e1",
+    "tab_loading":                  "#6684e1",
+    "tab_selected":                 "#20201d",
+    "tab_text":                     "#a6a28c",
+    "tab_background_text":          "#a6a28c",
+    "toolbar":                      "#20201d",
+    "popup":                        "#20201d",
+    "popup_text":                   "#a6a28c",
+    "popup_border":                 "#20201d",
+    "popup_highlight":              "#6e6b5e",
+    "popup_highlight_text":         "#e8e4cf",
+    "tab_background_separator":     "#999580",
+    "toolbar_bottom_separator":     "#292824",
+    "toolbar_field":                "#6e6b5e",
+    "toolbar_field_focus":          "#6e6b5e",
+    "toolbar_field_text_focus":     "#e8e4cf",
+    "toolbar_field_border":         "#20201d",
+    "toolbar_field_border_focus":   "#6684e1",
+    "toolbar_field_separator":      "#999580",
+    "toolbar_field_text":           "#a6a28c",
+    "bookmark_text":                "#a6a28c",
+    "toolbar_top_separator":        "#292824",
+    "toolbar_vertical_separator":   "#292824"
+  }
+}

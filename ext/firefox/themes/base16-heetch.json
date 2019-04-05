@@ -1,0 +1,33 @@
+{
+  "info": "base16-Heetch Dark by Geoffrey Teale (tealeg@gmail.com)",
+  "colors": {
+    "frame":                        "#392551",
+    "button_background_active":     "#5A496E",
+    "button_background_hover":      "#392551",
+    "icons":                        "#BDB6C5",
+    "icons_attention":              "#BD0152",
+    "tab_line":                     "#BD0152",
+    "tab_loading":                  "#BD0152",
+    "tab_selected":                 "#190134",
+    "tab_text":                     "#BDB6C5",
+    "tab_background_text":          "#BDB6C5",
+    "toolbar":                      "#190134",
+    "popup":                        "#190134",
+    "popup_text":                   "#BDB6C5",
+    "popup_border":                 "#190134",
+    "popup_highlight":              "#5A496E",
+    "popup_highlight_text":         "#DEDAE2",
+    "tab_background_separator":     "#9C92A8",
+    "toolbar_bottom_separator":     "#392551",
+    "toolbar_field":                "#5A496E",
+    "toolbar_field_focus":          "#5A496E",
+    "toolbar_field_text_focus":     "#DEDAE2",
+    "toolbar_field_border":         "#190134",
+    "toolbar_field_border_focus":   "#BD0152",
+    "toolbar_field_separator":      "#9C92A8",
+    "toolbar_field_text":           "#BDB6C5",
+    "bookmark_text":                "#BDB6C5",
+    "toolbar_top_separator":        "#392551",
+    "toolbar_vertical_separator":   "#392551"
+  }
+}

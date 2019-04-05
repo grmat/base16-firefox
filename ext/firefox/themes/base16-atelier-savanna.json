@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Savanna by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#232a25",
+    "button_background_active":     "#526057",
+    "button_background_hover":      "#232a25",
+    "icons":                        "#87928a",
+    "icons_attention":              "#478c90",
+    "tab_line":                     "#478c90",
+    "tab_loading":                  "#478c90",
+    "tab_selected":                 "#171c19",
+    "tab_text":                     "#87928a",
+    "tab_background_text":          "#87928a",
+    "toolbar":                      "#171c19",
+    "popup":                        "#171c19",
+    "popup_text":                   "#87928a",
+    "popup_border":                 "#171c19",
+    "popup_highlight":              "#526057",
+    "popup_highlight_text":         "#dfe7e2",
+    "tab_background_separator":     "#78877d",
+    "toolbar_bottom_separator":     "#232a25",
+    "toolbar_field":                "#526057",
+    "toolbar_field_focus":          "#526057",
+    "toolbar_field_text_focus":     "#dfe7e2",
+    "toolbar_field_border":         "#171c19",
+    "toolbar_field_border_focus":   "#478c90",
+    "toolbar_field_separator":      "#78877d",
+    "toolbar_field_text":           "#87928a",
+    "bookmark_text":                "#87928a",
+    "toolbar_top_separator":        "#232a25",
+    "toolbar_vertical_separator":   "#232a25"
+  }
+}

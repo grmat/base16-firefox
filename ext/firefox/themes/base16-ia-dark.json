@@ -1,0 +1,33 @@
+{
+  "info": "base16-iA Dark by iA Inc. (modified by aramisgithub)",
+  "colors": {
+    "frame":                        "#222222",
+    "button_background_active":     "#1d414d",
+    "button_background_hover":      "#222222",
+    "icons":                        "#cccccc",
+    "icons_attention":              "#8eccdd",
+    "tab_line":                     "#8eccdd",
+    "tab_loading":                  "#8eccdd",
+    "tab_selected":                 "#1a1a1a",
+    "tab_text":                     "#cccccc",
+    "tab_background_text":          "#cccccc",
+    "toolbar":                      "#1a1a1a",
+    "popup":                        "#1a1a1a",
+    "popup_text":                   "#cccccc",
+    "popup_border":                 "#1a1a1a",
+    "popup_highlight":              "#1d414d",
+    "popup_highlight_text":         "#e8e8e8",
+    "tab_background_separator":     "#b8b8b8",
+    "toolbar_bottom_separator":     "#222222",
+    "toolbar_field":                "#1d414d",
+    "toolbar_field_focus":          "#1d414d",
+    "toolbar_field_text_focus":     "#e8e8e8",
+    "toolbar_field_border":         "#1a1a1a",
+    "toolbar_field_border_focus":   "#8eccdd",
+    "toolbar_field_separator":      "#b8b8b8",
+    "toolbar_field_text":           "#cccccc",
+    "bookmark_text":                "#cccccc",
+    "toolbar_top_separator":        "#222222",
+    "toolbar_vertical_separator":   "#222222"
+  }
+}

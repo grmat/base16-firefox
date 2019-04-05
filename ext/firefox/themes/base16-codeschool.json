@@ -1,0 +1,33 @@
+{
+  "info": "base16-Codeschool by blockloop",
+  "colors": {
+    "frame":                        "#1c3657",
+    "button_background_active":     "#2a343a",
+    "button_background_hover":      "#1c3657",
+    "icons":                        "#9ea7a6",
+    "icons_attention":              "#484d79",
+    "tab_line":                     "#484d79",
+    "tab_loading":                  "#484d79",
+    "tab_selected":                 "#232c31",
+    "tab_text":                     "#9ea7a6",
+    "tab_background_text":          "#9ea7a6",
+    "toolbar":                      "#232c31",
+    "popup":                        "#232c31",
+    "popup_text":                   "#9ea7a6",
+    "popup_border":                 "#232c31",
+    "popup_highlight":              "#2a343a",
+    "popup_highlight_text":         "#a7cfa3",
+    "tab_background_separator":     "#84898c",
+    "toolbar_bottom_separator":     "#1c3657",
+    "toolbar_field":                "#2a343a",
+    "toolbar_field_focus":          "#2a343a",
+    "toolbar_field_text_focus":     "#a7cfa3",
+    "toolbar_field_border":         "#232c31",
+    "toolbar_field_border_focus":   "#484d79",
+    "toolbar_field_separator":      "#84898c",
+    "toolbar_field_text":           "#9ea7a6",
+    "bookmark_text":                "#9ea7a6",
+    "toolbar_top_separator":        "#1c3657",
+    "toolbar_vertical_separator":   "#1c3657"
+  }
+}

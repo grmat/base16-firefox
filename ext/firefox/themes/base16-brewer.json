@@ -1,0 +1,33 @@
+{
+  "info": "base16-Brewer by Timothée Poisot (http://github.com/tpoisot)",
+  "colors": {
+    "frame":                        "#2e2f30",
+    "button_background_active":     "#515253",
+    "button_background_hover":      "#2e2f30",
+    "icons":                        "#b7b8b9",
+    "icons_attention":              "#3182bd",
+    "tab_line":                     "#3182bd",
+    "tab_loading":                  "#3182bd",
+    "tab_selected":                 "#0c0d0e",
+    "tab_text":                     "#b7b8b9",
+    "tab_background_text":          "#b7b8b9",
+    "toolbar":                      "#0c0d0e",
+    "popup":                        "#0c0d0e",
+    "popup_text":                   "#b7b8b9",
+    "popup_border":                 "#0c0d0e",
+    "popup_highlight":              "#515253",
+    "popup_highlight_text":         "#dadbdc",
+    "tab_background_separator":     "#959697",
+    "toolbar_bottom_separator":     "#2e2f30",
+    "toolbar_field":                "#515253",
+    "toolbar_field_focus":          "#515253",
+    "toolbar_field_text_focus":     "#dadbdc",
+    "toolbar_field_border":         "#0c0d0e",
+    "toolbar_field_border_focus":   "#3182bd",
+    "toolbar_field_separator":      "#959697",
+    "toolbar_field_text":           "#b7b8b9",
+    "bookmark_text":                "#b7b8b9",
+    "toolbar_top_separator":        "#2e2f30",
+    "toolbar_vertical_separator":   "#2e2f30"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "info": "base16-Brush Trees by Abraham White &lt;abelincoln.white@gmail.com&gt;",
+  "colors": {
+    "frame":                        "#C9DBDC",
+    "button_background_active":     "#B0C5C8",
+    "button_background_hover":      "#C9DBDC",
+    "icons":                        "#6D828E",
+    "icons_attention":              "#868cb3",
+    "tab_line":                     "#868cb3",
+    "tab_loading":                  "#868cb3",
+    "tab_selected":                 "#E3EFEF",
+    "tab_text":                     "#6D828E",
+    "tab_background_text":          "#6D828E",
+    "toolbar":                      "#E3EFEF",
+    "popup":                        "#E3EFEF",
+    "popup_text":                   "#6D828E",
+    "popup_border":                 "#E3EFEF",
+    "popup_highlight":              "#B0C5C8",
+    "popup_highlight_text":         "#5A6D7A",
+    "tab_background_separator":     "#8299A1",
+    "toolbar_bottom_separator":     "#C9DBDC",
+    "toolbar_field":                "#B0C5C8",
+    "toolbar_field_focus":          "#B0C5C8",
+    "toolbar_field_text_focus":     "#5A6D7A",
+    "toolbar_field_border":         "#E3EFEF",
+    "toolbar_field_border_focus":   "#868cb3",
+    "toolbar_field_separator":      "#8299A1",
+    "toolbar_field_text":           "#6D828E",
+    "bookmark_text":                "#6D828E",
+    "toolbar_top_separator":        "#C9DBDC",
+    "toolbar_vertical_separator":   "#C9DBDC"
+  }
+}

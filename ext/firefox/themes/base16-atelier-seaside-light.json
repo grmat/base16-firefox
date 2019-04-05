@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Seaside Light by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#cfe8cf",
+    "button_background_active":     "#8ca68c",
+    "button_background_hover":      "#cfe8cf",
+    "icons":                        "#5e6e5e",
+    "icons_attention":              "#3d62f5",
+    "tab_line":                     "#3d62f5",
+    "tab_loading":                  "#3d62f5",
+    "tab_selected":                 "#f4fbf4",
+    "tab_text":                     "#5e6e5e",
+    "tab_background_text":          "#5e6e5e",
+    "toolbar":                      "#f4fbf4",
+    "popup":                        "#f4fbf4",
+    "popup_text":                   "#5e6e5e",
+    "popup_border":                 "#f4fbf4",
+    "popup_highlight":              "#8ca68c",
+    "popup_highlight_text":         "#242924",
+    "tab_background_separator":     "#687d68",
+    "toolbar_bottom_separator":     "#cfe8cf",
+    "toolbar_field":                "#8ca68c",
+    "toolbar_field_focus":          "#8ca68c",
+    "toolbar_field_text_focus":     "#242924",
+    "toolbar_field_border":         "#f4fbf4",
+    "toolbar_field_border_focus":   "#3d62f5",
+    "toolbar_field_separator":      "#687d68",
+    "toolbar_field_text":           "#5e6e5e",
+    "bookmark_text":                "#5e6e5e",
+    "toolbar_top_separator":        "#cfe8cf",
+    "toolbar_vertical_separator":   "#cfe8cf"
+  }
+}

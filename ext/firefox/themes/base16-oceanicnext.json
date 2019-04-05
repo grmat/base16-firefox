@@ -1,0 +1,33 @@
+{
+  "info": "base16-OceanicNext by https://github.com/voronianski/oceanic-next-color-scheme",
+  "colors": {
+    "frame":                        "#343D46",
+    "button_background_active":     "#4F5B66",
+    "button_background_hover":      "#343D46",
+    "icons":                        "#C0C5CE",
+    "icons_attention":              "#6699CC",
+    "tab_line":                     "#6699CC",
+    "tab_loading":                  "#6699CC",
+    "tab_selected":                 "#1B2B34",
+    "tab_text":                     "#C0C5CE",
+    "tab_background_text":          "#C0C5CE",
+    "toolbar":                      "#1B2B34",
+    "popup":                        "#1B2B34",
+    "popup_text":                   "#C0C5CE",
+    "popup_border":                 "#1B2B34",
+    "popup_highlight":              "#4F5B66",
+    "popup_highlight_text":         "#CDD3DE",
+    "tab_background_separator":     "#A7ADBA",
+    "toolbar_bottom_separator":     "#343D46",
+    "toolbar_field":                "#4F5B66",
+    "toolbar_field_focus":          "#4F5B66",
+    "toolbar_field_text_focus":     "#CDD3DE",
+    "toolbar_field_border":         "#1B2B34",
+    "toolbar_field_border_focus":   "#6699CC",
+    "toolbar_field_separator":      "#A7ADBA",
+    "toolbar_field_text":           "#C0C5CE",
+    "bookmark_text":                "#C0C5CE",
+    "toolbar_top_separator":        "#343D46",
+    "toolbar_vertical_separator":   "#343D46"
+  }
+}

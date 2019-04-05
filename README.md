@@ -12,7 +12,7 @@ Example screenshot with [Tomorrow Night][4] by [chriskempson][5]
 1. Use a [builder][6], update colour schemes and add base16-firefox to the templates build
 1. Use a builder to generate the theme files inside the firefox folder, e.g.
 
-       pybase16 build -o templates/base16-firefox/ext/
+       pybase16 build -o templates/firefox/ext/
 
 1. Build the WebExtension, either manually or with [`web-ext`][7] (`web-ext build -s ext`)
 

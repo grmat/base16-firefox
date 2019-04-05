@@ -1,0 +1,33 @@
+{
+  "info": "base16-Porple by Niek den Breeje (https://github.com/AuditeMarlow)",
+  "colors": {
+    "frame":                        "#333344",
+    "button_background_active":     "#474160",
+    "button_background_hover":      "#333344",
+    "icons":                        "#d8d8d8",
+    "icons_attention":              "#8485ce",
+    "tab_line":                     "#8485ce",
+    "tab_loading":                  "#8485ce",
+    "tab_selected":                 "#292c36",
+    "tab_text":                     "#d8d8d8",
+    "tab_background_text":          "#d8d8d8",
+    "toolbar":                      "#292c36",
+    "popup":                        "#292c36",
+    "popup_text":                   "#d8d8d8",
+    "popup_border":                 "#292c36",
+    "popup_highlight":              "#474160",
+    "popup_highlight_text":         "#e8e8e8",
+    "tab_background_separator":     "#b8b8b8",
+    "toolbar_bottom_separator":     "#333344",
+    "toolbar_field":                "#474160",
+    "toolbar_field_focus":          "#474160",
+    "toolbar_field_text_focus":     "#e8e8e8",
+    "toolbar_field_border":         "#292c36",
+    "toolbar_field_border_focus":   "#8485ce",
+    "toolbar_field_separator":      "#b8b8b8",
+    "toolbar_field_text":           "#d8d8d8",
+    "bookmark_text":                "#d8d8d8",
+    "toolbar_top_separator":        "#333344",
+    "toolbar_vertical_separator":   "#333344"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Sulphurpool by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#293256",
+    "button_background_active":     "#5e6687",
+    "button_background_hover":      "#293256",
+    "icons":                        "#979db4",
+    "icons_attention":              "#3d8fd1",
+    "tab_line":                     "#3d8fd1",
+    "tab_loading":                  "#3d8fd1",
+    "tab_selected":                 "#202746",
+    "tab_text":                     "#979db4",
+    "tab_background_text":          "#979db4",
+    "toolbar":                      "#202746",
+    "popup":                        "#202746",
+    "popup_text":                   "#979db4",
+    "popup_border":                 "#202746",
+    "popup_highlight":              "#5e6687",
+    "popup_highlight_text":         "#dfe2f1",
+    "tab_background_separator":     "#898ea4",
+    "toolbar_bottom_separator":     "#293256",
+    "toolbar_field":                "#5e6687",
+    "toolbar_field_focus":          "#5e6687",
+    "toolbar_field_text_focus":     "#dfe2f1",
+    "toolbar_field_border":         "#202746",
+    "toolbar_field_border_focus":   "#3d8fd1",
+    "toolbar_field_separator":      "#898ea4",
+    "toolbar_field_text":           "#979db4",
+    "bookmark_text":                "#979db4",
+    "toolbar_top_separator":        "#293256",
+    "toolbar_vertical_separator":   "#293256"
+  }
+}

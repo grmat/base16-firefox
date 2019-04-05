@@ -1,0 +1,33 @@
+{
+  "info": "base16-Darktooth by Jason Milkins (https://github.com/jasonm23)",
+  "colors": {
+    "frame":                        "#32302F",
+    "button_background_active":     "#504945",
+    "button_background_hover":      "#32302F",
+    "icons":                        "#A89984",
+    "icons_attention":              "#0D6678",
+    "tab_line":                     "#0D6678",
+    "tab_loading":                  "#0D6678",
+    "tab_selected":                 "#1D2021",
+    "tab_text":                     "#A89984",
+    "tab_background_text":          "#A89984",
+    "toolbar":                      "#1D2021",
+    "popup":                        "#1D2021",
+    "popup_text":                   "#A89984",
+    "popup_border":                 "#1D2021",
+    "popup_highlight":              "#504945",
+    "popup_highlight_text":         "#D5C4A1",
+    "tab_background_separator":     "#928374",
+    "toolbar_bottom_separator":     "#32302F",
+    "toolbar_field":                "#504945",
+    "toolbar_field_focus":          "#504945",
+    "toolbar_field_text_focus":     "#D5C4A1",
+    "toolbar_field_border":         "#1D2021",
+    "toolbar_field_border_focus":   "#0D6678",
+    "toolbar_field_separator":      "#928374",
+    "toolbar_field_text":           "#A89984",
+    "bookmark_text":                "#A89984",
+    "toolbar_top_separator":        "#32302F",
+    "toolbar_vertical_separator":   "#32302F"
+  }
+}

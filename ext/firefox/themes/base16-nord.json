@@ -1,0 +1,33 @@
+{
+  "info": "base16-Nord by arcticicestudio",
+  "colors": {
+    "frame":                        "#3B4252",
+    "button_background_active":     "#434C5E",
+    "button_background_hover":      "#3B4252",
+    "icons":                        "#E5E9F0",
+    "icons_attention":              "#EBCB8B",
+    "tab_line":                     "#EBCB8B",
+    "tab_loading":                  "#EBCB8B",
+    "tab_selected":                 "#2E3440",
+    "tab_text":                     "#E5E9F0",
+    "tab_background_text":          "#E5E9F0",
+    "toolbar":                      "#2E3440",
+    "popup":                        "#2E3440",
+    "popup_text":                   "#E5E9F0",
+    "popup_border":                 "#2E3440",
+    "popup_highlight":              "#434C5E",
+    "popup_highlight_text":         "#ECEFF4",
+    "tab_background_separator":     "#D8DEE9",
+    "toolbar_bottom_separator":     "#3B4252",
+    "toolbar_field":                "#434C5E",
+    "toolbar_field_focus":          "#434C5E",
+    "toolbar_field_text_focus":     "#ECEFF4",
+    "toolbar_field_border":         "#2E3440",
+    "toolbar_field_border_focus":   "#EBCB8B",
+    "toolbar_field_separator":      "#D8DEE9",
+    "toolbar_field_text":           "#E5E9F0",
+    "bookmark_text":                "#E5E9F0",
+    "toolbar_top_separator":        "#3B4252",
+    "toolbar_vertical_separator":   "#3B4252"
+  }
+}

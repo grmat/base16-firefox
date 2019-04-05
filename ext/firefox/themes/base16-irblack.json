@@ -1,0 +1,33 @@
+{
+  "info": "base16-IR Black by Timothée Poisot (http://timotheepoisot.fr)",
+  "colors": {
+    "frame":                        "#242422",
+    "button_background_active":     "#484844",
+    "button_background_hover":      "#242422",
+    "icons":                        "#b5b3aa",
+    "icons_attention":              "#96cbfe",
+    "tab_line":                     "#96cbfe",
+    "tab_loading":                  "#96cbfe",
+    "tab_selected":                 "#000000",
+    "tab_text":                     "#b5b3aa",
+    "tab_background_text":          "#b5b3aa",
+    "toolbar":                      "#000000",
+    "popup":                        "#000000",
+    "popup_text":                   "#b5b3aa",
+    "popup_border":                 "#000000",
+    "popup_highlight":              "#484844",
+    "popup_highlight_text":         "#d9d7cc",
+    "tab_background_separator":     "#918f88",
+    "toolbar_bottom_separator":     "#242422",
+    "toolbar_field":                "#484844",
+    "toolbar_field_focus":          "#484844",
+    "toolbar_field_text_focus":     "#d9d7cc",
+    "toolbar_field_border":         "#000000",
+    "toolbar_field_border_focus":   "#96cbfe",
+    "toolbar_field_separator":      "#918f88",
+    "toolbar_field_text":           "#b5b3aa",
+    "bookmark_text":                "#b5b3aa",
+    "toolbar_top_separator":        "#242422",
+    "toolbar_vertical_separator":   "#242422"
+  }
+}

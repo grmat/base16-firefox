@@ -1,0 +1,33 @@
+{
+  "info": "base16-Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)",
+  "colors": {
+    "frame":                        "#302e00",
+    "button_background_active":     "#5f5b17",
+    "button_background_hover":      "#302e00",
+    "icons":                        "#948e48",
+    "icons_attention":              "#477ca1",
+    "tab_line":                     "#477ca1",
+    "tab_loading":                  "#477ca1",
+    "tab_selected":                 "#201602",
+    "tab_text":                     "#948e48",
+    "tab_background_text":          "#948e48",
+    "toolbar":                      "#201602",
+    "popup":                        "#201602",
+    "popup_text":                   "#948e48",
+    "popup_border":                 "#201602",
+    "popup_highlight":              "#5f5b17",
+    "popup_highlight_text":         "#ccc37a",
+    "tab_background_separator":     "#86813b",
+    "toolbar_bottom_separator":     "#302e00",
+    "toolbar_field":                "#5f5b17",
+    "toolbar_field_focus":          "#5f5b17",
+    "toolbar_field_text_focus":     "#ccc37a",
+    "toolbar_field_border":         "#201602",
+    "toolbar_field_border_focus":   "#477ca1",
+    "toolbar_field_separator":      "#86813b",
+    "toolbar_field_text":           "#948e48",
+    "bookmark_text":                "#948e48",
+    "toolbar_top_separator":        "#302e00",
+    "toolbar_vertical_separator":   "#302e00"
+  }
+}

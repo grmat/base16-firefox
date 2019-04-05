@@ -1,0 +1,33 @@
+{
+  "info": "base16-Atelier Seaside by Bram de Haan (http://atelierbramdehaan.nl)",
+  "colors": {
+    "frame":                        "#242924",
+    "button_background_active":     "#5e6e5e",
+    "button_background_hover":      "#242924",
+    "icons":                        "#8ca68c",
+    "icons_attention":              "#3d62f5",
+    "tab_line":                     "#3d62f5",
+    "tab_loading":                  "#3d62f5",
+    "tab_selected":                 "#131513",
+    "tab_text":                     "#8ca68c",
+    "tab_background_text":          "#8ca68c",
+    "toolbar":                      "#131513",
+    "popup":                        "#131513",
+    "popup_text":                   "#8ca68c",
+    "popup_border":                 "#131513",
+    "popup_highlight":              "#5e6e5e",
+    "popup_highlight_text":         "#cfe8cf",
+    "tab_background_separator":     "#809980",
+    "toolbar_bottom_separator":     "#242924",
+    "toolbar_field":                "#5e6e5e",
+    "toolbar_field_focus":          "#5e6e5e",
+    "toolbar_field_text_focus":     "#cfe8cf",
+    "toolbar_field_border":         "#131513",
+    "toolbar_field_border_focus":   "#3d62f5",
+    "toolbar_field_separator":      "#809980",
+    "toolbar_field_text":           "#8ca68c",
+    "bookmark_text":                "#8ca68c",
+    "toolbar_top_separator":        "#242924",
+    "toolbar_vertical_separator":   "#242924"
+  }
+}

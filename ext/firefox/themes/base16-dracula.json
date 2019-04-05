@@ -1,0 +1,33 @@
+{
+  "info": "base16-Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)",
+  "colors": {
+    "frame":                        "#3a3c4e",
+    "button_background_active":     "#4d4f68",
+    "button_background_hover":      "#3a3c4e",
+    "icons":                        "#e9e9f4",
+    "icons_attention":              "#62d6e8",
+    "tab_line":                     "#62d6e8",
+    "tab_loading":                  "#62d6e8",
+    "tab_selected":                 "#282936",
+    "tab_text":                     "#e9e9f4",
+    "tab_background_text":          "#e9e9f4",
+    "toolbar":                      "#282936",
+    "popup":                        "#282936",
+    "popup_text":                   "#e9e9f4",
+    "popup_border":                 "#282936",
+    "popup_highlight":              "#4d4f68",
+    "popup_highlight_text":         "#f1f2f8",
+    "tab_background_separator":     "#62d6e8",
+    "toolbar_bottom_separator":     "#3a3c4e",
+    "toolbar_field":                "#4d4f68",
+    "toolbar_field_focus":          "#4d4f68",
+    "toolbar_field_text_focus":     "#f1f2f8",
+    "toolbar_field_border":         "#282936",
+    "toolbar_field_border_focus":   "#62d6e8",
+    "toolbar_field_separator":      "#62d6e8",
+    "toolbar_field_text":           "#e9e9f4",
+    "bookmark_text":                "#e9e9f4",
+    "toolbar_top_separator":        "#3a3c4e",
+    "toolbar_vertical_separator":   "#3a3c4e"
+  }
+}

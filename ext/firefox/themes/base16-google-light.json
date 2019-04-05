@@ -1,0 +1,33 @@
+{
+  "info": "base16-Google Light by Seth Wright (http://sethawright.com)",
+  "colors": {
+    "frame":                        "#e0e0e0",
+    "button_background_active":     "#c5c8c6",
+    "button_background_hover":      "#e0e0e0",
+    "icons":                        "#373b41",
+    "icons_attention":              "#3971ED",
+    "tab_line":                     "#3971ED",
+    "tab_loading":                  "#3971ED",
+    "tab_selected":                 "#ffffff",
+    "tab_text":                     "#373b41",
+    "tab_background_text":          "#373b41",
+    "toolbar":                      "#ffffff",
+    "popup":                        "#ffffff",
+    "popup_text":                   "#373b41",
+    "popup_border":                 "#ffffff",
+    "popup_highlight":              "#c5c8c6",
+    "popup_highlight_text":         "#282a2e",
+    "tab_background_separator":     "#969896",
+    "toolbar_bottom_separator":     "#e0e0e0",
+    "toolbar_field":                "#c5c8c6",
+    "toolbar_field_focus":          "#c5c8c6",
+    "toolbar_field_text_focus":     "#282a2e",
+    "toolbar_field_border":         "#ffffff",
+    "toolbar_field_border_focus":   "#3971ED",
+    "toolbar_field_separator":      "#969896",
+    "toolbar_field_text":           "#373b41",
+    "bookmark_text":                "#373b41",
+    "toolbar_top_separator":        "#e0e0e0",
+    "toolbar_vertical_separator":   "#e0e0e0"
+  }
+}
