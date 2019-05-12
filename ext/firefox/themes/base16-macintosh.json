@@ -6,6 +6,8 @@
     "button_background_hover":      "#404040",
     "icons":                        "#c0c0c0",
     "icons_attention":              "#0000d3",
+    "ntp_background":               "#000000",
+    "ntp_text":                     "#c0c0c0",
     "tab_line":                     "#0000d3",
     "tab_loading":                  "#0000d3",
     "tab_selected":                 "#000000",

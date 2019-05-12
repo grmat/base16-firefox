@@ -6,6 +6,8 @@
     "button_background_hover":      "#e0e0e0",
     "icons":                        "#373b41",
     "icons_attention":              "#3971ED",
+    "ntp_background":               "#ffffff",
+    "ntp_text":                     "#373b41",
     "tab_line":                     "#3971ED",
     "tab_loading":                  "#3971ED",
     "tab_selected":                 "#ffffff",
@@ -25,7 +27,7 @@
     "toolbar_field_border":         "#ffffff",
     "toolbar_field_border_focus":   "#3971ED",
     "toolbar_field_separator":      "#969896",
-    "toolbar_field_text":           "#373b41",
+    "toolbar_field_text":           "#282a2e",
     "bookmark_text":                "#373b41",
     "toolbar_top_separator":        "#e0e0e0",
     "toolbar_vertical_separator":   "#e0e0e0"
